@@ -44,4 +44,4 @@
 ## 브랜치 구조
 
 - **[Frontend 브랜치](https://github.com/Seungrok-J/FinalProject/blob/frontend):** 사용자 인터페이스(UI)를 구현한 브랜치입니다. React를 사용하여 반응형 웹 애플리케이션을 개발했습니다.
-- **[Backend 브랜치](https://github.com/Seungrok-J/FinalProject/blob/backend/README.md):** 서버와 데이터베이스 로직을 담당하는 브랜치입니다. Spring Boot를 사용하여 RESTful API를 구축하고 데이터베이스를 관리합니다.
+- **[Backend 브랜치](https://github.com/Seungrok-J/FinalProject/tree/backend):** 서버와 데이터베이스 로직을 담당하는 브랜치입니다. Spring Boot를 사용하여 RESTful API를 구축하고 데이터베이스를 관리합니다.
