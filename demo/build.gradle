@@ -1,0 +1,92 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.3.1'
+	id 'io.spring.dependency-management' version '1.1.5'
+}
+
+group = 'mallapi'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(17)
+	}
+}
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	compileOnly 'org.projectlombok:lombok'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	runtimeOnly 'mysql:mysql-connector-java:8.0.28' // MySQL 드라이버 의존성 추가
+	annotationProcessor 'org.projectlombok:lombok'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	testCompileOnly 'org.projectlombok:lombok'
+	testAnnotationProcessor 'org.projectlombok:lombok'
+
+	implementation 'org.modelmapper:modelmapper:3.1.1'
+
+	implementation 'net.coobird:thumbnailator:0.4.19'
+
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+
+	implementation 'com.google.code.gson:gson:2.11.0'
+
+	implementation 'io.jsonwebtoken:jjwt-api:0.11.5'
+	runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.11.5'
+	runtimeOnly 'io.jsonwebtoken:jjwt-jackson:0.11.5'
+	testImplementation 'org.mockito:mockito-core:4.2.0'
+
+	    // MyBatis
+    implementation 'org.mybatis:mybatis:3.5.10'  // MyBatis의 최신 버전을 확인하고 필요에 따라 버전을 조정하세요
+
+    // MyBatis-Spring
+    implementation 'org.mybatis:mybatis-spring:2.0.7'  // MyBatis-Spring의 최신 버전을 확인하고 필요에 따라 버전을 조정하세요
+	implementation 'org.springframework.boot:spring-boot-starter-mail'
+
+    // Spring Security OAuth2 Client
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+
+    // Spring Security OAuth2 JOSE (for JWT Support)
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-resource-server'
+
+	implementation 'com.google.api-client:google-api-client:1.31.1'
+	implementation 'com.google.oauth-client:google-oauth-client-jetty:1.30.1'
+
+	implementation 'com.auth0:java-jwt:3.18.1'
+	    // Spring Boot Starter WebFlux
+    implementation 'org.springframework.boot:spring-boot-starter-webflux'
+
+	implementation 'org.json:json:20210307'
+
+	implementation 'org.apache.httpcomponents:httpclient:4.5.13'
+
+	// https://mvnrepository.com/artifact/io.projectreactor/reactor-core
+	implementation 'io.projectreactor:reactor-core:3.6.5'
+
+    // AWS Java SDK for S3
+    implementation 'com.amazonaws:aws-java-sdk-s3:1.11.1000' // 이 부분에서 버전은 최신 버전으로 조정 가능
+	
+
+	implementation 'com.google.cloud:google-cloud-translate:2.47.0'
+
+	implementation 'com.fasterxml.jackson.core:jackson-databind'
+	runtimeOnly 'org.postgresql:postgresql'
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}

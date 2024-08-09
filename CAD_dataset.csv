@@ -1,0 +1,2132 @@
+file_idx,file_number,detail,budget,company,materials,title,description,content
+1,01- (1),Assembly,0.00,THE ENGINEER,Ass'Y,식물성 계란 생산 장비 노른자 투입조,Assembly (조립품),식물성 계란 생산 장비 노른자 투입조 Assembly (조립품) Plant-based Egg Production Equipment Yolk Injection Hopper
+2,01- (2),Assembly,"3,000,000.00",THE ENGINEER,Ass'Y,식물성 계란 생산 장비 몰드지그,Assembly (조립품),식물성 계란 생산 장비 몰드지그 Assembly (조립품) Plant-based Egg Production Equipment Mold Jig
+3,01- (3),Component,"15,681.00",THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 노른자 투입조,"Plate (플레이트, 판재)","식물성 계란 생산 장비 노른자 투입조 Plate (플레이트, 판재) Plant-based Egg Production Equipment Yolk Injection Hopper"
+4,01- (4),Component,"185,833.00",THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 노른자 투입조,"Plate (플레이트, 판재)","식물성 계란 생산 장비 노른자 투입조 Plate (플레이트, 판재) Plant-based Egg Production Equipment Yolk Injection Hopper"
+5,01- (5),Assembly,0.00,THE ENGINEER,Ass'Y,식물성 계란 생산 장비 노른자 투입조,Assembly (조립품),식물성 계란 생산 장비 노른자 투입조 Assembly (조립품) Plant-based Egg Production Equipment Yolk Injection Hopper
+6,01- (6),Component,"23,000.00",THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 노른자 트레이,"Plate (플레이트, 판재)","식물성 계란 생산 장비 노른자 트레이 Plate (플레이트, 판재) Plant-based Egg Production Equipment Yolk Tray"
+7,01- (7),Component,0.00,THE ENGINEER,etc,식물성 계란 생산 장비 노른자 트레이,"Plate (플레이트, 판재)","식물성 계란 생산 장비 노른자 트레이 Plate (플레이트, 판재) Plant-based Egg Production Equipment Yolk Tray"
+8,01- (8),Component,0.00,THE ENGINEER,etc,식물성 계란 생산 장비 노른자 트레이,기타 (etc),식물성 계란 생산 장비 노른자 트레이 기타 (etc) Plant-based Egg Production Equipment Yolk Tray
+9,01- (9),Component,"88,905.00",THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 노른자 투입조,"Plate (플레이트, 판재)","식물성 계란 생산 장비 노른자 투입조 Plate (플레이트, 판재) Plant-based Egg Production Equipment Yolk Injection Hopper"
+10,01- (10),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 도킹부,기타 (etc),식물성 계란 생산 장비 도킹부 기타 (etc) Plant-based Egg Production Equipment Docking Station
+11,01- (11),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 도킹부,기타 (etc),식물성 계란 생산 장비 도킹부 기타 (etc) Plant-based Egg Production Equipment Docking Station
+12,01- (12),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 도킹부,"Plate (플레이트, 판재)","식물성 계란 생산 장비 도킹부 Plate (플레이트, 판재) Plant-based Egg Production Equipment Docking Station"
+13,01- (13),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 도킹부,"Plate (플레이트, 판재)","식물성 계란 생산 장비 도킹부 Plate (플레이트, 판재) Plant-based Egg Production Equipment Docking Station"
+14,01- (14),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 도킹부,"Plate (플레이트, 판재)","식물성 계란 생산 장비 도킹부 Plate (플레이트, 판재) Plant-based Egg Production Equipment Docking Station"
+15,01- (15),Component,0.00,THE ENGINEER,etc,식물성 계란 생산 장비 도킹부,"Plate (플레이트, 판재)","식물성 계란 생산 장비 도킹부 Plate (플레이트, 판재) Plant-based Egg Production Equipment Docking Station"
+16,01- (16),Component,"32,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 도킹부,"Plate (플레이트, 판재)","식물성 계란 생산 장비 도킹부 Plate (플레이트, 판재) Plant-based Egg Production Equipment Docking Station"
+17,01- (17),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 도킹부,"Plate (플레이트, 판재)","식물성 계란 생산 장비 도킹부 Plate (플레이트, 판재) Plant-based Egg Production Equipment Docking Station"
+18,01- (18),Component,"12,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 도킹부,기타 (etc),식물성 계란 생산 장비 도킹부 기타 (etc) Plant-based Egg Production Equipment Docking Station
+19,01- (19),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 몰드지그,"Plate (플레이트, 판재)","식물성 계란 생산 장비 몰드지그 Plate (플레이트, 판재) Plant-based Egg Production Equipment Mold Jig"
+20,01- (20),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 스카라 로봇,"Pulley (풀리, 도르래)","식물성 계란 생산 장비 스카라 로봇 Pulley (풀리, 도르래) Plant-based Egg Production Equipment SCARA Robot"
+21,01- (21),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 스카라 로봇,"Pulley (풀리, 도르래)","식물성 계란 생산 장비 스카라 로봇 Pulley (풀리, 도르래) Plant-based Egg Production Equipment SCARA Robot"
+22,01- (22),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART01,Robot (로봇),스카라로봇 파트01 Robot (로봇) SCARA Robot PART01
+23,01- (23),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART02,Robot (로봇),스카라로봇 파트02 Robot (로봇) SCARA Robot PART02
+24,01- (24),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART03,Robot (로봇),스카라로봇 파트03 Robot (로봇) SCARA Robot PART03
+25,01- (25),Component,"26,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART04,Robot (로봇),스카라로봇 파트04 Robot (로봇) SCARA Robot PART04
+26,01- (26),Component,"25,000.00",THE ENGINEER,Carbon Steels,스카라로봇 PART05,Robot (로봇),스카라로봇 파트05 Robot (로봇) SCARA Robot PART05
+27,01- (27),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART06,Robot (로봇),스카라로봇 파트06 Robot (로봇) SCARA Robot PART06
+28,01- (28),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART07,Robot (로봇),스카라로봇 파트07 Robot (로봇) SCARA Robot PART07
+29,01- (29),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 몰드지그,"Plate (플레이트, 판재)","식물성 계란 생산 장비 몰드지그 Plate (플레이트, 판재) Plant-based Egg Production Equipment Mold Jig"
+30,01- (30),Component,"12,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART16,Robot (로봇),스카라로봇 파트16 Robot (로봇) SCARA Robot PART16
+31,01- (31),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART15,Robot (로봇),스카라로봇 파트15 Robot (로봇) SCARA Robot PART15
+32,01- (32),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART14,Robot (로봇),스카라로봇 파트14 Robot (로봇) SCARA Robot PART14
+33,01- (34),Component,"16,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART11,Robot (로봇),스카라로봇 파트11 Robot (로봇) SCARA Robot PART11
+34,01- (35),Component,"15,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART12,Robot (로봇),스카라로봇 파트12 Robot (로봇) SCARA Robot PART12
+35,01- (36),Component,"35,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART10,Robot (로봇),스카라로봇 파트10 Robot (로봇) SCARA Robot PART10
+36,01- (37),Component,"25,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART09,Robot (로봇),스카라로봇 파트09 Robot (로봇) SCARA Robot PART09
+37,01- (38),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART08,Robot (로봇),스카라로봇 파트08 Robot (로봇) SCARA Robot PART08
+38,01- (39),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART17,Robot (로봇),스카라로봇 파트17 Robot (로봇) SCARA Robot PART17
+39,01- (40),Component,"5,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 벨트 컨베이어,"Bracket (브라켓, 지지대)","인하대 실험기기 벨트 컨베이어 Bracket (브라켓, 지지대) Inha University Experimental Equipment Belt Conveyor"
+40,01- (41),Component,"6,500.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 벨트 컨베이어,"Bracket (브라켓, 지지대)","인하대 실험기기 벨트 컨베이어 Bracket (브라켓, 지지대) Inha University Experimental Equipment Belt Conveyor"
+41,01- (42),Component,"32,500.00",THE ENGINEER,Stainless Steels,인하대 실험기기 벨트 컨베이어,Motor (모터),인하대 실험기기 벨트 컨베이어 Motor (모터) Inha University Experimental Equipment Belt Conveyor
+42,01- (43),Component,0.00,THE ENGINEER,MC Nylon,인하대 실험기기 벨트 컨베이어,"Fix/Adjust (고정부품, 조정부품)","인하대 실험기기 벨트 컨베이어 Fix/Adjust (고정부품, 조정부품) Inha University Experimental Equipment Belt Conveyor"
+43,01- (44),Component,"14,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 벨트 컨베이어,"Bracket (브라켓, 지지대)","인하대 실험기기 벨트 컨베이어 Bracket (브라켓, 지지대) Inha University Experimental Equipment Belt Conveyor"
+44,01- (45),Component,"9,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 벨트 컨베이어,"Stopper (스토퍼, 멈추게 하는 부품)","인하대 실험기기 벨트 컨베이어 Stopper (스토퍼, 멈추게 하는 부품) Inha University Experimental Equipment Belt Conveyor"
+45,01- (46),Component,"4,000.00",THE ENGINEER,Carbon Steels,인하대 실험기기 벨트 컨베이어,"shaft (샤프트, 축)","인하대 실험기기 벨트 컨베이어 shaft (샤프트, 축) Inha University Experimental Equipment Belt Conveyor"
+46,01- (47),Component,"2,000.00",THE ENGINEER,Tefron,인하대 실험기기 벨트 컨베이어,Roller (롤러),인하대 실험기기 벨트 컨베이어 Roller (롤러) Inha University Experimental Equipment Belt Conveyor
+47,01- (48),Assembly,0.00,THE ENGINEER,Ass'Y,인하대 실험기기 벨트 컨베이어,Assembly (조립품),인하대 실험기기 벨트 컨베이어 Assembly (조립품) Inha University Experimental Equipment Belt Conveyor
+48,01- (49),Component,0.00,THE ENGINEER,etc,인하대 실험기기 벨트 컨베이어,"Stopper (스토퍼, 멈추게 하는 부품)","인하대 실험기기 벨트 컨베이어 Stopper (스토퍼, 멈추게 하는 부품) Inha University Experimental Equipment Belt Conveyor"
+49,01- (50),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Power (전원, 전원관련부품)","EFEM 상부 전장 박스 레이아웃 Power (전원, 전원관련부품) EFEM Top Electrical Enclosure BOX Layout"
+50,01- (51),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Power (전원, 전원관련부품)","EFEM 상부 전장 박스 레이아웃 Power (전원, 전원관련부품) EFEM Top Electrical Enclosure BOX Layout"
+51,01- (52),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Power (전원, 전원관련부품)","EFEM 상부 전장 박스 레이아웃 Power (전원, 전원관련부품) EFEM Top Electrical Enclosure BOX Layout"
+52,01- (53),Component,0.00,THE ENGINEER,Stainless Steels,인하대 실험기기 벨트 컨베이어,"Fix/Adjust (고정부품, 조정부품)","인하대 실험기기 벨트 컨베이어 Fix/Adjust (고정부품, 조정부품) Inha University Experimental Equipment Belt Conveyor"
+53,01- (54),Component,"6,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 벨트 컨베이어,"Bracket (브라켓, 지지대)","인하대 실험기기 벨트 컨베이어 Bracket (브라켓, 지지대) Inha University Experimental Equipment Belt Conveyor"
+54,01- (55),Component,0.00,THE ENGINEER,Stainless Steels,인하대 실험기기 벨트 컨베이어,"Cover (커버, 덮개)","인하대 실험기기 벨트 컨베이어 Cover (커버, 덮개) Inha University Experimental Equipment Belt Conveyor"
+55,01- (56),Component,0.00,THE ENGINEER,Stainless Steels,인하대 실험기기 벨트 컨베이어,"Cover (커버, 덮개)","인하대 실험기기 벨트 컨베이어 Cover (커버, 덮개) Inha University Experimental Equipment Belt Conveyor"
+56,01- (57),Component,0.00,THE ENGINEER,Stainless Steels,인하대 실험기기 벨트 컨베이어,Motor (모터),인하대 실험기기 벨트 컨베이어 Motor (모터) Inha University Experimental Equipment Belt Conveyor
+57,01- (58),Component,"8,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 벨트 컨베이어,"Profile (프로파일, 단면)","인하대 실험기기 벨트 컨베이어 Profile (프로파일, 단면) Inha University Experimental Equipment Belt Conveyor"
+58,01- (59),Component,"4,500.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Power (전원, 전원관련부품)","EFEM 상부 전장 박스 레이아웃 Power (전원, 전원관련부품) EFEM Top Electrical Enclosure BOX Layout"
+59,01- (60),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+60,01- (61),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+61,01- (62),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+62,01- (63),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+63,01- (64),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+64,01- (65),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+65,01- (66),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+66,01- (67),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+67,01- (68),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+68,01- (69),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+69,01- (70),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+70,01- (71),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+71,01- (72),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+72,01- (73),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+73,01- (74),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+74,01- (75),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+75,01- (76),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+76,01- (77),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+77,01- (78),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+78,01- (79),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+79,01- (81),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+80,01- (82),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+81,01- (83),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+82,01- (84),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+83,01- (85),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+84,01- (86),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+85,01- (87),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+86,01- (88),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+87,01- (89),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+88,01- (90),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+89,01- (91),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+90,01- (92),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+91,01- (93),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+92,01- (94),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+93,01- (95),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+94,01- (96),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+95,01- (97),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+96,01- (98),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+97,01- (99),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+98,01- (100),Component,0.00,Robostar,Stainless Steels,EFEM 상부 전장 BOX Layout,"Pad (패드, 받침)","EFEM 상부 전장 박스 레이아웃 Pad (패드, 받침) EFEM Top Electrical Enclosure BOX Layout"
+99,02- (1),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+100,02- (2),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+101,02- (3),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+102,02- (4),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+103,02- (5),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+104,02- (6),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+105,02- (7),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+106,02- (8),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+107,02- (9),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+108,02- (10),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+109,02- (11),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+110,02- (12),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+111,02- (13),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+112,02- (14),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+113,02- (15),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+114,02- (16),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+115,02- (17),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+116,02- (18),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+117,02- (19),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+118,02- (20),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+119,02- (21),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+120,02- (22),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+121,02- (23),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+122,02- (24),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+123,02- (25),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+124,02- (26),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+125,02- (27),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+126,02- (28),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+127,02- (29),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+128,02- (30),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+129,02- (31),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+130,02- (32),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+131,02- (33),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+132,02- (34),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+133,02- (35),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+134,02- (36),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+135,02- (37),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+136,02- (38),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+137,02- (39),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+138,02- (40),Component,0.00,Robostar,Tefron,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+139,02- (41),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+140,02- (42),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+141,02- (43),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+142,02- (44),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+143,02- (45),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+144,02- (46),Component,0.00,Robostar,etc,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+145,02- (47),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+146,02- (48),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+147,02- (49),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+148,02- (50),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+149,02- (51),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+150,02- (52),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+151,02- (53),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+152,02- (54),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+153,02- (55),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+154,02- (56),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+155,02- (57),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+156,02- (58),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+157,02- (59),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+158,02- (60),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+159,02- (61),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+160,02- (62),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+161,02- (63),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+162,02- (64),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+163,02- (65),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+164,02- (66),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+165,02- (67),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+166,02- (68),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Base (블록,덩어리)","EFEM 상부 전장 박스 레이아웃 Base (블록,덩어리) EFEM Top Electrical Enclosure BOX Layout"
+167,02- (69),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+168,02- (70),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+169,02- (71),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+170,02- (72),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+171,02- (73),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+172,02- (74),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+173,02- (75),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+174,02- (76),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+175,02- (77),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+176,02- (78),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+177,02- (79),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+178,02- (80),Component,"4,000.00",Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+179,02- (81),Component,"4,000.00",Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+180,02- (82),Component,"12,000.00",Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+181,02- (83),Component,"12,000.00",Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+182,02- (84),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+183,02- (85),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+184,02- (86),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+185,02- (87),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+186,02- (88),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+187,02- (89),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+188,02- (90),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+189,02- (91),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+190,02- (92),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+191,02- (93),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+192,02- (94),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+193,02- (95),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+194,02- (96),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+195,02- (97),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+196,02- (98),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+197,02- (99),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+198,02- (100),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+199,03- (1),Component,0.00,Robostar,Stainless Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+200,03- (2),Component,"3,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Door (문)/Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Door (문)/Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+201,,,0.00,,,,,  
+202,03- (4),Component,"6,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+203,03- (5),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+204,,,0.00,,,,,  
+205,03- (7),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+206,,,0.00,,,,,  
+207,03- (9),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+208,03- (10),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+209,03- (11),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+210,03- (12),Component,"7,000.00",Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+211,03- (13),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+212,03- (14),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+213,03- (15),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+214,03- (16),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+215,03- (17),Component,"10,000.00",Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+216,03- (18),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+217,03- (19),Component,"1,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+218,03- (20),Component,"17,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,Robot (로봇),EFEM 상부 전장 박스 레이아웃 Robot (로봇) EFEM Top Electrical Enclosure BOX Layout
+219,03- (21),Component,0.00,Robostar,ESD PC,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+220,03- (22),Component,0.00,Robostar,etc,EFEM 상부 전장 BOX Layout,"Block (블록, 덩어리)","EFEM 상부 전장 박스 레이아웃 Block (블록, 덩어리) EFEM Top Electrical Enclosure BOX Layout"
+221,03- (23),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+222,03- (24),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+223,03- (25),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+224,03- (26),Component,0.00,Robostar,Stainless Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+225,03- (27),Component,0.00,Robostar,MC Nylon,EFEM 상부 전장 BOX Layout,"Block (블록, 덩어리)","EFEM 상부 전장 박스 레이아웃 Block (블록, 덩어리) EFEM Top Electrical Enclosure BOX Layout"
+226,03- (28),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+227,03- (29),Component,"6,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+228,03- (30),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+229,03- (31),Component,0.00,Robostar,etc,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+230,03- (32),Component,0.00,Robostar,etc,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+231,03- (33),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+232,03- (34),Component,"2,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+233,03- (35),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+234,03- (36),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+235,03- (37),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+236,03- (38),Component,"5,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+237,03- (39),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+238,03- (40),Component,"8,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+239,03- (41),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+240,03- (42),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+241,03- (43),Component,"8,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+242,03- (44),Assembly,0.00,Robostar,Ass'Y,EFEM 상부 전장 BOX Layout,Assembly (조립품),EFEM 상부 전장 박스 레이아웃 Assembly (조립품) EFEM Top Electrical Enclosure BOX Layout
+243,03- (45),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+244,03- (46),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+245,03- (47),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+246,03- (48),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+247,03- (49),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+248,03- (50),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+249,03- (51),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+250,03- (52),Component,"4,500.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+251,03- (53),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+252,03- (54),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+253,03- (55),Component,"20,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+254,03- (56),Component,"10,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+255,03- (57),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+256,03- (58),Component,0.00,Robostar,etc,EFEM 상부 전장 BOX Layout,"Plate (플레이트, 판재)","EFEM 상부 전장 박스 레이아웃 Plate (플레이트, 판재) EFEM Top Electrical Enclosure BOX Layout"
+257,03- (59),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+258,03- (60),Component,"3,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+259,03- (61),Component,"3,500.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+260,03- (62),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Bracket (브라켓, 지지대)","EFEM 상부 전장 박스 레이아웃 Bracket (브라켓, 지지대) EFEM Top Electrical Enclosure BOX Layout"
+261,03- (63),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+262,03- (64),Component,0.00,Robostar,Aluminum Alloys,EFEM 상부 전장 BOX Layout,"Frame (프레임, 골격, 틀)","EFEM 상부 전장 박스 레이아웃 Frame (프레임, 골격, 틀) EFEM Top Electrical Enclosure BOX Layout"
+263,03- (65),Component,"12,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+264,03- (66),Component,"15,000.00",Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+265,03- (67),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+266,03- (68),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+267,03- (69),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+268,03- (70),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+269,03- (71),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+270,03- (72),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+271,03- (73),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+272,03- (74),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+273,03- (75),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+274,03- (76),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+275,03- (77),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+276,03- (78),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Guide (가이드, 안내부품)","EFEM 상부 전장 박스 레이아웃 Guide (가이드, 안내부품) EFEM Top Electrical Enclosure BOX Layout"
+277,03- (79),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+278,03- (80),Component,0.00,Robostar,Structural Steels,EFEM 상부 전장 BOX Layout,"Cover (커버, 덮개)","EFEM 상부 전장 박스 레이아웃 Cover (커버, 덮개) EFEM Top Electrical Enclosure BOX Layout"
+279,03- (81),Component,"20,000.00",SFA,ESD PC,MZ TURN UNIT/SEC 온양 3LF PKG MGZ CLEANER 교체 물류개조,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+280,03- (82),Component,0.00,SFA,Polyurethane,PULLEY(MOTOR),Motor (모터), Motor (모터) 
+281,03- (83),Component,0.00,SFA,Polyurethane,PULLEY(DRIVE),"Pulley (풀리, 도르래)"," Pulley (풀리, 도르래) "
+282,03- (84),Component,"20,000.00",SFA,Stainless Steels,END CAP,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+283,03- (85),Component,0.00,SFA,Structural Steels,COLLAR,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+284,03- (86),Component,"20,000.00",SFA,Structural Steels,END CAP,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+285,03- (87),Component,"40,000.00",SFA,Structural Steels,COLLAR,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+286,03- (88),Component,0.00,SFA,Carbon Steels,TAIL ROLLER,Roller (롤러), Roller (롤러) 
+287,03- (89),Component,0.00,SFA,Carbon Steels,DRIVE ROLLER,Roller (롤러), Roller (롤러) 
+288,03- (90),Component,0.00,SFA,Carbon Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+289,03- (91),Component,0.00,SFA,Carbon Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+290,03- (92),Component,"594,000.00",SFA,Aluminum Alloys,SIDE PLATE,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+291,03- (93),Component,"684,000.00",SFA,Aluminum Alloys,SIDE PLATE,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+292,03- (94),Assembly,0.00,SFA,Ass'Y,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+293,03- (95),Assembly,0.00,SFA,Ass'Y,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ TOWER 증설 물류개조,Assembly (조립품),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 타워 증설 물류개조 Assembly (조립품) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ TOWER Expansion and Logistics Modification
+294,03- (96),Assembly,0.00,SFA,Ass'Y,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ TOWER 증설 물류개조,Assembly (조립품),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 타워 증설 물류개조 Assembly (조립품) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ TOWER Expansion and Logistics Modification
+295,03- (97),Assembly,0.00,SFA,Ass'Y,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ TOWER 증설 물류개조,Assembly (조립품),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 타워 증설 물류개조 Assembly (조립품) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ TOWER Expansion and Logistics Modification
+296,03- (98),Assembly,0.00,SFA,Ass'Y,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ TOWER 증설 물류개조,Assembly (조립품),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 타워 증설 물류개조 Assembly (조립품) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ TOWER Expansion and Logistics Modification
+297,03- (99),Assembly,0.00,SFA,Ass'Y,MZ TURN UNIT / SEC 온양 3L1F PKG CLEANER 교체 물류개조공사,Assembly (조립품),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 클리너 교체 물류개조공사 Assembly (조립품) MZ TURN UNIT / SEC Onyang 3L1F PKG CLEANER Replacement and Logistics Modification공사
+298,03- (100),Component,0.00,SFA,Structural Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+299,04- (1),Component,0.00,SFA,Structural Steels,FOSB/CASSET TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Fix/Adjust (고정부품, 조정부품)","FOSB/CASSE티 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Fix/Adjust (고정부품, 조정부품) FOSB/CASSE T TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+300,04- (2),Component,"117,000.00",SFA,Structural Steels,FOSB/CASSET TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","FOSB/CASSE티 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) FOSB/CASSE T TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+301,04- (3),Component,"650,000.00",SFA,Aluminum Alloys,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+302,04- (4),Assembly,0.00,SFA,Ass'Y,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+303,04- (5),Component,0.00,SFA,Stainless Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+304,04- (6),Component,0.00,SFA,Stainless Steels,,"Guide (가이드, 안내부품)"," Guide (가이드, 안내부품) "
+305,04- (7),Component,0.00,SFA,Structural Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+306,04- (8),Component,0.00,SFA,Structural Steels,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+307,04- (9),Component,0.00,SFA,Carbon Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+308,04- (10),Component,0.00,SFA,MC Nylon,,"Guide (가이드, 안내부품)"," Guide (가이드, 안내부품) "
+309,04- (11),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+310,04- (12),Component,0.00,SFA,Stainless Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+311,04- (13),Component,0.00,SFA,Urethane,,"Pad (패드, 받침)"," Pad (패드, 받침) "
+312,04- (14),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+313,04- (15),Component,0.00,SFA,Stainless Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+314,04- (16),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+315,04- (17),Component,0.00,SFA,Aluminum Alloys,,Sensor (센서), Sensor (센서) 
+316,04- (18),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+317,04- (19),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+318,04- (20),Component,0.00,SFA,Structural Steels,FOSB SHUTTLE TURN / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","FOSB 셔틀 회전 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) FOSB SHUTTLE TURN / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+319,04- (21),Component,0.00,SFA,Aluminum Alloys,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+320,04- (22),Component,0.00,SFA,Structural Steels,MZ TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Sensor (센서),MZ 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Sensor (센서) MZ TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+321,04- (23),Component,0.00,SFA,Structural Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+322,04- (24),Component,0.00,SFA,Structural Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+323,04- (25),Component,0.00,SFA,Structural Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+324,04- (26),Component,0.00,SFA,Structural Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+325,04- (27),Component,0.00,SFA,Structural Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+326,04- (28),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+327,04- (29),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+328,04- (30),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+329,04- (31),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+330,04- (32),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+331,04- (33),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+332,04- (34),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+333,04- (35),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+334,04- (36),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+335,04- (37),Component,0.00,SFA,Aluminum Alloys,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+336,04- (38),Component,0.00,SFA,Urethane,,"Pad (패드, 받침)"," Pad (패드, 받침) "
+337,04- (39),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+338,04- (40),Component,"6,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+339,04- (41),Component,"2,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+340,04- (42),Component,"4,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+341,04- (43),Component,"5,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+342,04- (44),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+343,04- (45),Assembly,0.00,SFA,Ass'Y,MZ TURN SHUTTLE(상부) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 회전 셔틀(상부) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ TURN SHUTTLE(Top) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+344,04- (46),Component,0.00,SFA,Aluminum Alloys,,"Base (블록,덩어리)"," Base (블록,덩어리) "
+345,04- (47),Component,0.00,SFA,Aluminum Alloys,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+346,04- (48),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+347,04- (49),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+348,04- (50),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+349,04- (51),Assembly,0.00,SFA,Ass'Y,MZ TURN SHUTTLE(상부) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 회전 셔틀(상부) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ TURN SHUTTLE(Top) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+350,04- (52),Component,0.00,SFA,Structural Steels,MZ TURN UNIT(상부) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","MZ 회전 유닛 단위(상부) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) MZ TURN UNIT(Top) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+351,04- (53),Component,0.00,SFA,Structural Steels,MZ TURN UNIT(상부) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Fix/Adjust (고정부품, 조정부품)","MZ 회전 유닛 단위(상부) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Fix/Adjust (고정부품, 조정부품) MZ TURN UNIT(Top) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+352,04- (54),Component,0.00,SFA,Structural Steels,MZ TURN UNIT(상부) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Sensor (센서),MZ 회전 유닛 단위(상부) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Sensor (센서) MZ TURN UNIT(Top) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+353,04- (55),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+354,04- (56),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+355,04- (57),Component,0.00,SFA,Structural Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+356,04- (58),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+357,04- (59),Component,"56,000.00",SFA,Aluminum Alloys,TURN BASE,"Base (블록,덩어리)"," Base (블록,덩어리) "
+358,04- (60),Component,"5,500.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+359,04- (61),Component,"4,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+360,04- (62),Component,"5,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+361,04- (63),Component,"8,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+362,04- (64),Component,"4,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+363,04- (65),Assembly,0.00,SFA,Ass'Y,MZ TURN SHUTTLE / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 회전 셔틀 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ TURN SHUTTLE / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+364,04- (66),Assembly,0.00,SFA,Ass'Y,MZ TURN SHUTTLE / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 회전 셔틀 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ TURN SHUTTLE / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+365,04- (67),Component,0.00,SFA,Aluminum Alloys,MZ TURN SHUTTLE / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","MZ 회전 셔틀 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) MZ TURN SHUTTLE / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+366,04- (68),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+367,04- (69),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+368,04- (70),Assembly,0.00,SFA,Ass'Y,MZ TURN SHUTTLE / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 회전 셔틀 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ TURN SHUTTLE / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+369,04- (71),Component,"5,500.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+370,04- (72),Component,"6,500.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+371,04- (73),Component,"6,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+372,04- (74),Component,"5,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+373,04- (75),Component,"4,500.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+374,04- (76),Component,"2,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+375,04- (77),Component,"6,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+376,04- (78),Component,"5,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+377,04- (79),Component,"4,500.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+378,04- (80),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+379,04- (81),Component,0.00,SFA,Stainless Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+380,04- (82),Component,0.00,SFA,Stainless Steels,,"Guide (가이드, 안내부품)"," Guide (가이드, 안내부품) "
+381,04- (83),Component,"30,000.00",SFA,Aluminum Alloys,MOVING PLATE,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+382,04- (84),Component,0.00,SFA,Aluminum Alloys,,Robot (로봇), Robot (로봇) 
+383,04- (85),Component,0.00,SFA,Aluminum Alloys,,Robot (로봇), Robot (로봇) 
+384,04- (86),Component,0.00,SFA,Aluminum Alloys,,Robot (로봇), Robot (로봇) 
+385,04- (87),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+386,04- (88),Component,0.00,SFA,Structural Steels,MZ LIFTER(TURN-SHUTTLE) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Sensor (센서),MZ 리프터(회전-셔틀) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Sensor (센서) MZ LIFTER(TURN-SHUTTLE) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+387,04- (89),Component,0.00,SFA,Structural Steels,FOSB SHUTTLE TURN / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","FOSB 셔틀 회전 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) FOSB SHUTTLE TURN / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+388,04- (90),Component,0.00,SFA,Structural Steels,FOSV/CASSET TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","FOSV/CASSE티 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) FOSV/CASSET TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+389,04- (91),Component,0.00,SFA,Structural Steels,FOSV/CASSET TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Fix/Adjust (고정부품, 조정부품)","FOSV/CASSE티 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Fix/Adjust (고정부품, 조정부품) FOSV/CASSET TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+390,04- (92),Component,0.00,SFA,Structural Steels,FOSV/CASSET TURN UNIT / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","FOSV/CASSE티 회전 유닛 단위 / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) FOSV/CASSET TURN UNIT / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+391,04- (93),Component,0.00,SFA,Aluminum Alloys,MZ LIFTER(TURN-SHUTTLE) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","MZ 리프터(회전-셔틀) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) MZ LIFTER(TURN-SHUTTLE) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+392,04- (94),Assembly,0.00,SFA,Ass'Y,MZ LIFTER(TURN-SHUTTLE) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Assembly (조립품),MZ 리프터(회전-셔틀) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Assembly (조립품) MZ LIFTER(TURN-SHUTTLE) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+393,04- (95),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+394,04- (96),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+395,04- (97),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+396,04- (98),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+397,04- (99),Component,"3,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+398,04- (100),Component,"6,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+399,05- (1),Component,"3,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+400,05- (2),Component,"4,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+401,05- (3),Component,"8,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+402,05- (4),Component,"4,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+403,05- (5),Component,"8,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+404,05- (6),Component,"16,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+405,05- (7),Component,"8,000.00",SFA,ESD PC,BOOTH COVER,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+406,05- (8),Component,0.00,SFA,Polyurethane,,"Profile (프로파일, 단면)"," Profile (프로파일, 단면) "
+407,05- (9),Component,0.00,SFA,Polyurethane,,"Profile (프로파일, 단면)"," Profile (프로파일, 단면) "
+408,05- (10),Component,0.00,SFA,Polyurethane,,"Profile (프로파일, 단면)"," Profile (프로파일, 단면) "
+409,05- (11),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+410,,,0.00,,,,,  
+411,05- (13),Component,"33,000.00",SFA,Structural Steels,OP PANEL,기타 (etc), 기타 (etc) 
+412,05- (14),Component,"21,000.00",SFA,Aluminum Alloys,SUPPORT BLOCK,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+413,05- (15),Component,0.00,SFA,etc,,"Pad (패드, 받침)"," Pad (패드, 받침) "
+414,05- (16),Component,0.00,SFA,Aluminum Alloys,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+415,05- (17),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+416,05- (18),Component,0.00,SFA,Structural Steels,,Sensor (센서), Sensor (센서) 
+417,05- (19),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+418,05- (20),Component,"18,000.00",SFA,Aluminum Alloys,CYL PLATE,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+419,05- (21),Component,"28,000.00",SFA,Aluminum Alloys,BASE PLATE,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+420,05- (22),Component,"52,000.00",SFA,Aluminum Alloys,SIDE PALTE,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+421,05- (23),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+422,05- (24),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+423,05- (25),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+424,05- (26),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+425,05- (27),Component,0.00,SFA,Polyurethane,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+426,05- (28),Component,0.00,SFA,ESD PC,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+427,05- (29),Component,0.00,SFA,Structural Steels,,Sensor (센서), Sensor (센서) 
+428,05- (30),Component,0.00,SFA,Structural Steels,,Sensor (센서), Sensor (센서) 
+429,05- (31),Component,0.00,SFA,Structural Steels,MZ LIFTER (TURN-SHUTTLE) / SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,Sensor (센서),MZ 리프터 (회전-셔틀) / SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Sensor (센서) MZ LIFTER (TURN-SHUTTLE) / SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification
+430,05- (32),Component,0.00,SFA,Aluminum Alloys,,Motor (모터), Motor (모터) 
+431,05- (33),Component,0.00,SFA,Aluminum Alloys,,Motor (모터), Motor (모터) 
+432,05- (34),Component,0.00,SFA,Aluminum Alloys,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+433,05- (35),Component,0.00,SFA,Aluminum Alloys,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+434,05- (36),Component,"72,000.00",SFA,Aluminum Alloys,LM PLATE,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+435,05- (37),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+436,05- (38),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+437,05- (39),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+438,05- (40),Component,"22,000.00",SFA,Stainless Steels,MZ 반전장치,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+439,05- (41),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+440,05- (42),Component,0.00,SFA,etc,,"Pad (패드, 받침)"," Pad (패드, 받침) "
+441,05- (43),Component,0.00,SFA,Aluminum Alloys,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+442,05- (44),Component,0.00,SFA,Stainless Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+443,05- (45),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+444,05- (46),Component,0.00,SFA,Carbon Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+445,05- (47),Component,0.00,SFA,Stainless Steels,,Sensor (센서), Sensor (센서) 
+446,05- (48),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+447,05- (49),Component,0.00,SFA,Stainless Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+448,05- (50),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+449,05- (51),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+450,05- (52),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+451,05- (53),Component,0.00,SFA,Urethane,,"Pad (패드, 받침)"," Pad (패드, 받침) "
+452,05- (54),Component,0.00,SFA,Carbon Steels,,"Stopper (스토퍼, 멈추게 하는 부품)"," Stopper (스토퍼, 멈추게 하는 부품) "
+453,05- (55),Component,0.00,SFA,Aluminum Alloys,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+454,05- (56),Component,0.00,SFA,Aluminum Alloys,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+455,05- (57),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+456,05- (58),Component,0.00,SFA,etc,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+457,05- (59),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+458,05- (60),Component,0.00,SFA,Structural Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+459,05- (61),Component,0.00,SFA,Structural Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+460,05- (62),Component,0.00,SFA,etc,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+461,05- (63),Component,0.00,SFA,Structural Steels,,Roller (롤러), Roller (롤러) 
+462,05- (64),Component,0.00,SFA,Carbon Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+463,05- (65),Component,0.00,SFA,Carbon Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+464,05- (66),Component,0.00,SFA,Aluminum Alloys,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+465,05- (67),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+466,05- (68),Component,"6,000.00",SFA,ESD PC,MZ BELT CONVEYOR,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+467,05- (69),Component,0.00,SFA,Stainless Steels,,"Guide (가이드, 안내부품)"," Guide (가이드, 안내부품) "
+468,05- (70),Component,0.00,SFA,etc,,"Frame (프레임, 골격, 틀)"," Frame (프레임, 골격, 틀) "
+469,05- (71),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+470,05- (72),Component,"24,000.00",SFA,ESD PC,MZ 반전장치,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+471,05- (73),Component,"24,000.00",SFA,ESD PC,MZ 반전장치,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+472,05- (74),Component,"10,000.00",SFA,ESD PC,MZ 반전장치,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+473,05- (75),Component,"6,000.00",SFA,ESD PC,MZ 반전장치,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+474,05- (76),Component,0.00,SFA,ESD PC,,"Frame (프레임, 골격, 틀)"," Frame (프레임, 골격, 틀) "
+475,05- (77),Component,0.00,SFA,ESD PC,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+476,05- (78),Component,"10,000.00",SFA,Stainless Steels,MZ 반전장치,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+477,05- (79),Component,0.00,SFA,Stainless Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+478,05- (80),Component,0.00,SFA,Carbon Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+479,05- (81),Component,0.00,SFA,Structural Steels,,Roller (롤러), Roller (롤러) 
+480,05- (82),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+481,05- (83),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+482,05- (84),Component,0.00,SFA,Structural Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+483,05- (85),Component,"49,000.00",SFA,Stainless Steels,MZ BELT CV,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+484,05- (86),Component,"9,000.00",SFA,Stainless Steels,MZ BELT CV,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+485,05- (87),Component,0.00,SFA,Structural Steels,,Roller (롤러), Roller (롤러) 
+486,05- (88),Component,0.00,SFA,Structural Steels,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+487,05- (89),Component,0.00,SFA,Aluminum Alloys,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+488,05- (90),Component,0.00,SFA,Structural Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+489,05- (91),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+490,05- (92),Component,0.00,SFA,Structural Steels,MZ BELT 기타 SEC 온양 3L1F PKG MGZ CLEANER 교체 물류개조,"Plate (플레이트, 판재)","MZ BEL티 기타 SEC 온양 3L1F 패키지 MGZ 클리너 교체 물류개조 Plate (플레이트, 판재) MZ BELT Others SEC Onyang 3L1F PKG MGZ CLEANER Replacement and Logistics Modification"
+491,05- (93),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+492,05- (94),Component,0.00,SFA,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+493,05- (95),Component,0.00,SFA,MC Nylon,,"Guide (가이드, 안내부품)"," Guide (가이드, 안내부품) "
+494,05- (96),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+495,05- (97),Component,0.00,SFA,Structural Steels,,"Bushing (부싱, 슬리브)"," Bushing (부싱, 슬리브) "
+496,05- (98),Component,0.00,SFA,Structural Steels,,"Bushing (부싱, 슬리브)"," Bushing (부싱, 슬리브) "
+497,05- (99),Component,0.00,SFA,Aluminum Alloys,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+498,05- (100),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+499,06- (1),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+500,06- (2),Component,0.00,SFA,MC Nylon,,Support ( 지지대 / 서포트), Support ( 지지대 / 서포트) 
+501,06- (3),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+502,06- (4),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+503,06- (5),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+504,06- (6),Component,0.00,SFA,Structural Steels,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+505,06- (7),Component,0.00,SFA,Carbon Steels,,"shaft (샤프트, 축)"," shaft (샤프트, 축) "
+506,06- (8),Component,0.00,SFA,Structural Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+507,06- (9),Component,0.00,SFA,Aluminum Alloys,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+508,06- (10),Component,0.00,SFA,Structural Steels,,Support ( 지지대 / 서포트), Support ( 지지대 / 서포트) 
+509,06- (11),Component,0.00,SFA,Stainless Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+510,06- (12),Component,0.00,SFA,Structural Steels,,Roller (롤러), Roller (롤러) 
+511,06- (13),Component,0.00,SFA,Structural Steels,,"Block (블록, 덩어리)"," Block (블록, 덩어리) "
+512,06- (14),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+513,06- (15),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+514,06- (16),Component,0.00,SFA,Structural Steels,,"Fix/Adjust (고정부품, 조정부품)"," Fix/Adjust (고정부품, 조정부품) "
+515,06- (17),Component,0.00,SFA,Structural Steels,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+516,06- (18),Component,0.00,SFA,Structural Steels,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+517,06- (19),Assembly,0.00,SFA,Ass'Y,,Assembly (조립품), Assembly (조립품) 
+518,06- (20),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART 30,Robot (로봇),스카라로봇 파트 30 Robot (로봇) SCARA Robot PART 30
+519,06- (21),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART 29,Robot (로봇),스카라로봇 파트 29 Robot (로봇) SCARA Robot PART 29
+520,06- (22),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART 28,Robot (로봇),스카라로봇 파트 28 Robot (로봇) SCARA Robot PART 28
+521,06- (23),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART 27,Robot (로봇),스카라로봇 파트 27 Robot (로봇) SCARA Robot PART 27
+522,06- (24),Component,"3,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART 26,Robot (로봇),스카라로봇 파트 26 Robot (로봇) SCARA Robot PART 26
+523,06- (25),Component,"6,500.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART 25,Robot (로봇),스카라로봇 파트 25 Robot (로봇) SCARA Robot PART 25
+524,06- (26),Component,"6,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART 24,Robot (로봇),스카라로봇 파트 24 Robot (로봇) SCARA Robot PART 24
+525,06- (27),Component,"12,500.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART 23,Robot (로봇),스카라로봇 파트 23 Robot (로봇) SCARA Robot PART 23
+526,06- (28),Component,0.00,THE ENGINEER,Stainless Steels,스카라로봇 PART 22,Robot (로봇),스카라로봇 파트 22 Robot (로봇) SCARA Robot PART 22
+527,06- (29),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART 21,Robot (로봇),스카라로봇 파트 21 Robot (로봇) SCARA Robot PART 21
+528,06- (30),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART 20,Robot (로봇),스카라로봇 파트 20 Robot (로봇) SCARA Robot PART 20
+529,06- (31),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART 19,Robot (로봇),스카라로봇 파트 19 Robot (로봇) SCARA Robot PART 19
+530,06- (32),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART 18,Robot (로봇),스카라로봇 파트 18 Robot (로봇) SCARA Robot PART 18
+531,06- (33),Component,0.00,THE ENGINEER,Aluminum Alloys,스카라로봇 PART 17,Robot (로봇),스카라로봇 파트 17 Robot (로봇) SCARA Robot PART 17
+532,06- (34),Component,"14,000.00",THE ENGINEER,Aluminum Alloys,스카라로봇 PART 16,Robot (로봇),스카라로봇 파트 16 Robot (로봇) SCARA Robot PART 16
+533,06- (35),Component,0.00,SFA,Structural Steels,,Sensor (센서), Sensor (센서) 
+534,06- (36),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+535,06- (37),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+536,06- (38),Component,0.00,SFA,MC Nylon,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+537,06- (39),Component,500.00,THE ENGINEER,Carbon Steels,스카라로봇 PART31,Robot (로봇),스카라로봇 파트31 Robot (로봇) SCARA Robot PART31
+538,06- (40),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+539,06- (41),Component,"8,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+540,06- (42),Component,"20,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+541,06- (43),Component,"2,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+542,06- (44),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 로딩대차,"shaft (샤프트, 축)","식물성 계란 생산 장비 로딩대차 shaft (샤프트, 축) Plant-based Egg Production Equipment Loading Trolley"
+543,06- (45),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+544,06- (46),Component,"9,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+545,06- (47),Component,"21,500.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+546,06- (48),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 로딩대차,Motor (모터),식물성 계란 생산 장비 로딩대차 Motor (모터) Plant-based Egg Production Equipment Loading Trolley
+547,06- (49),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 로딩대차,Motor (모터),식물성 계란 생산 장비 로딩대차 Motor (모터) Plant-based Egg Production Equipment Loading Trolley
+548,06- (50),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 로딩대차,"Fix/Adjust (고정부품, 조정부품)","식물성 계란 생산 장비 로딩대차 Fix/Adjust (고정부품, 조정부품) Plant-based Egg Production Equipment Loading Trolley"
+549,06- (51),Assembly,0.00,THE ENGINEER,Ass'Y,식물성 계란 생산 장비 로딩대차,Assembly (조립품),식물성 계란 생산 장비 로딩대차 Assembly (조립품) Plant-based Egg Production Equipment Loading Trolley
+550,06- (52),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART38,Robot (로봇),스카라로봇 파트38 Robot (로봇) SCARA Robot PART38
+551,06- (53),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART37,Robot (로봇),스카라로봇 파트37 Robot (로봇) SCARA Robot PART37
+552,06- (54),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART36,Robot (로봇),스카라로봇 파트36 Robot (로봇) SCARA Robot PART36
+553,06- (55),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART35,Robot (로봇),스카라로봇 파트35 Robot (로봇) SCARA Robot PART35
+554,06- (56),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART34,Robot (로봇),스카라로봇 파트34 Robot (로봇) SCARA Robot PART34
+555,06- (57),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART33,Robot (로봇),스카라로봇 파트33 Robot (로봇) SCARA Robot PART33
+556,06- (58),Component,0.00,THE ENGINEER,Carbon Steels,스카라로봇 PART32,Robot (로봇),스카라로봇 파트32 Robot (로봇) SCARA Robot PART32
+557,06- (59),Component,"12,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Bracket (브라켓, 지지대)","식물성 계란 생산 장비 로딩대차 Bracket (브라켓, 지지대) Plant-based Egg Production Equipment Loading Trolley"
+558,06- (60),Component,0.00,THE ENGINEER,Carbon Steels,인덱스테이블 PART12,"Plate (플레이트, 판재)","인덱스테이블 파트12 Plate (플레이트, 판재) Index Table PART12"
+559,06- (61),Component,"48,500.00",THE ENGINEER,Carbon Steels,인덱스테이블 PART11,"Plate (플레이트, 판재)","인덱스테이블 파트11 Plate (플레이트, 판재) Index Table PART11"
+560,06- (62),Assembly,0.00,THE ENGINEER,Ass'Y,인덱스테이블 PART10,Assembly (조립품),인덱스테이블 파트10 Assembly (조립품) Index Table PART10
+561,06- (63),Component,0.00,THE ENGINEER,Stainless Steels,인덱스테이블 PART09,"Fix/Adjust (고정부품, 조정부품)","인덱스테이블 파트09 Fix/Adjust (고정부품, 조정부품) Index Table PART09"
+562,06- (64),Component,"14,000.00",THE ENGINEER,Aluminum Alloys,인덱스테이블 PART07,"Bracket (브라켓, 지지대)","인덱스테이블 파트07 Bracket (브라켓, 지지대) Index Table PART07"
+563,06- (65),Component,0.00,THE ENGINEER,Aluminum Alloys,인덱스테이블 PART05,"Plate (플레이트, 판재)","인덱스테이블 파트05 Plate (플레이트, 판재) Index Table PART05"
+564,06- (66),Component,0.00,THE ENGINEER,Aluminum Alloys,인덱스테이블 PART03,"Plate (플레이트, 판재)","인덱스테이블 파트03 Plate (플레이트, 판재) Index Table PART03"
+565,06- (67),Component,0.00,THE ENGINEER,Aluminum Alloys,인덱스테이블 PART02,"Plate (플레이트, 판재)","인덱스테이블 파트02 Plate (플레이트, 판재) Index Table PART02"
+566,06- (68),Component,0.00,THE ENGINEER,Polycarbonate,인덱스테이블 PART02,"Cover (커버, 덮개)","인덱스테이블 파트02 Cover (커버, 덮개) Index Table PART02"
+567,06- (69),Component,"24,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Frame (프레임, 골격, 틀)","식물성 계란 생산 장비 로딩대차 Frame (프레임, 골격, 틀) Plant-based Egg Production Equipment Loading Trolley"
+568,06- (70),Component,"8,000.00",THE ENGINEER,Polycarbonate,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+569,06- (71),Component,"8,000.00",THE ENGINEER,Polycarbonate,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+570,06- (72),Component,"19,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Plate (플레이트, 판재)","식물성 계란 생산 장비 로딩대차 Plate (플레이트, 판재) Plant-based Egg Production Equipment Loading Trolley"
+571,06- (73),Component,0.00,THE ENGINEER,etc,식물성 계란 생산 장비 로딩대차,"Frame (프레임, 골격, 틀)","식물성 계란 생산 장비 로딩대차 Frame (프레임, 골격, 틀) Plant-based Egg Production Equipment Loading Trolley"
+572,06- (74),Assembly,0.00,THE ENGINEER,Ass'Y,식물성 계란 생산 장비 로딩대차-조립폼,Assembly (조립품),식물성 계란 생산 장비 로딩대차-조립폼 Assembly (조립품) Plant-based Egg Production Equipment Loading Trolley-Assembly
+573,06- (75),Component,0.00,THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 로딩대차,"Fix/Adjust (고정부품, 조정부품)","식물성 계란 생산 장비 로딩대차 Fix/Adjust (고정부품, 조정부품) Plant-based Egg Production Equipment Loading Trolley"
+574,06- (76),Component,"10,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Bracket (브라켓, 지지대)","식물성 계란 생산 장비 로딩대차 Bracket (브라켓, 지지대) Plant-based Egg Production Equipment Loading Trolley"
+575,06- (77),Component,"4,000.00",THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Bracket (브라켓, 지지대)","식물성 계란 생산 장비 로딩대차 Bracket (브라켓, 지지대) Plant-based Egg Production Equipment Loading Trolley"
+576,06- (78),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 로딩대차,"Bracket (브라켓, 지지대)","식물성 계란 생산 장비 로딩대차 Bracket (브라켓, 지지대) Plant-based Egg Production Equipment Loading Trolley"
+577,06- (79),Component,0.00,THE ENGINEER,Carbon Steels,인덱스테이블 PART13,"Plate (플레이트, 판재)","인덱스테이블 파트13 Plate (플레이트, 판재) Index Table PART13"
+578,06- (80),Component,0.00,THE ENGINEER,Carbon Steels,인덱스테이블 PART12,"Plate (플레이트, 판재)","인덱스테이블 파트12 Plate (플레이트, 판재) Index Table PART12"
+579,06- (81),Component,0.00,THE ENGINEER,Composite Materials,흰자주입기 PART9,"Plate (플레이트, 판재)","흰자주입기 파트9 Plate (플레이트, 판재) Egg White Injector PART9"
+580,06- (82),Component,0.00,THE ENGINEER,Carbon Steels,흰자주입기 PART8,"shaft (샤프트, 축)","흰자주입기 파트8 shaft (샤프트, 축) Egg White Injector PART8"
+581,06- (83),Component,"10,000.00",THE ENGINEER,Aluminum Alloys,흰자주입기 PART7,"Plate (플레이트, 판재)","흰자주입기 파트7 Plate (플레이트, 판재) Egg White Injector PART7"
+582,06- (84),Component,"24,000.00",THE ENGINEER,Aluminum Alloys,흰자주입기 PART6,"Plate (플레이트, 판재)","흰자주입기 파트6 Plate (플레이트, 판재) Egg White Injector PART6"
+583,06- (85),Component,0.00,THE ENGINEER,Aluminum Alloys,흰자주입기 PART5,"Bracket (브라켓, 지지대)","흰자주입기 파트5 Bracket (브라켓, 지지대) Egg White Injector PART5"
+584,06- (86),Component,0.00,THE ENGINEER,Aluminum Alloys,흰자주입기 PART4,"Bracket (브라켓, 지지대)","흰자주입기 파트4 Bracket (브라켓, 지지대) Egg White Injector PART4"
+585,06- (87),Component,0.00,THE ENGINEER,Aluminum Alloys,흰자주입기 PART3,"Bracket (브라켓, 지지대)","흰자주입기 파트3 Bracket (브라켓, 지지대) Egg White Injector PART3"
+586,06- (88),Component,0.00,THE ENGINEER,Aluminum Alloys,흰자주입기 PART2,"Bracket (브라켓, 지지대)","흰자주입기 파트2 Bracket (브라켓, 지지대) Egg White Injector PART2"
+587,06- (89),Component,0.00,THE ENGINEER,Composite Materials,흰자주입기 PART1,"Bracket (브라켓, 지지대)","흰자주입기 파트1 Bracket (브라켓, 지지대) Egg White Injector PART1"
+588,06- (90),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 로딩대차,Motor (모터),식물성 계란 생산 장비 로딩대차 Motor (모터) Plant-based Egg Production Equipment Loading Trolley
+589,06- (91),Component,0.00,THE ENGINEER,Carbon Steels,식물성 계란 생산 장비 로딩대차,Motor (모터),식물성 계란 생산 장비 로딩대차 Motor (모터) Plant-based Egg Production Equipment Loading Trolley
+590,06- (92),Component,0.00,THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 흰자주입기,"Block (블록, 덩어리)","식물성 계란 생산 장비 흰자주입기 Block (블록, 덩어리) Plant-based Egg Production Equipment Egg White Injector"
+591,06- (93),Component,0.00,THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 흰자주입기,"Block (블록, 덩어리)","식물성 계란 생산 장비 흰자주입기 Block (블록, 덩어리) Plant-based Egg Production Equipment Egg White Injector"
+592,06- (94),Component,"12,000.00",THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 인덱스 테이블,"Guide (가이드, 안내부품)","식물성 계란 생산 장비 인덱스 테이블 Guide (가이드, 안내부품) Plant-based Egg Production Equipment Index Table"
+593,06- (95),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 인덱스 테이블,"Plate (플레이트, 판재)","식물성 계란 생산 장비 인덱스 테이블 Plate (플레이트, 판재) Plant-based Egg Production Equipment Index Table"
+594,06- (96),Component,0.00,THE ENGINEER,Stainless Steels,식물성 계란 생산 장비 인덱스 테이블,"Bushing (부싱, 슬리브)","식물성 계란 생산 장비 인덱스 테이블 Bushing (부싱, 슬리브) Plant-based Egg Production Equipment Index Table"
+595,06- (97),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 인덱스 테이블,"Cover (커버, 덮개)","식물성 계란 생산 장비 인덱스 테이블 Cover (커버, 덮개) Plant-based Egg Production Equipment Index Table"
+596,06- (98),Component,0.00,THE ENGINEER,Aluminum Alloys,식물성 계란 생산 장비 인덱스 테이블,"Bracket (브라켓, 지지대)","식물성 계란 생산 장비 인덱스 테이블 Bracket (브라켓, 지지대) Plant-based Egg Production Equipment Index Table"
+597,06- (99),Component,0.00,THE ENGINEER,Carbon Steels,인덱스테이블 PART15,"Fix/Adjust (고정부품, 조정부품)","인덱스테이블 파트15 Fix/Adjust (고정부품, 조정부품) Index Table PART15"
+598,06- (100),Component,0.00,THE ENGINEER,Composite Materials,인덱스테이블 PART13,"Bracket (브라켓, 지지대)","인덱스테이블 파트13 Bracket (브라켓, 지지대) Index Table PART13"
+599,07- (1),Component,"13,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART09,"Plate (플레이트, 판재)","노른자피더 파트09 Plate (플레이트, 판재) Yolk Feeder PART09"
+600,07- (2),Component,"32,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART08,"Plate (플레이트, 판재)","노른자피더 파트08 Plate (플레이트, 판재) Yolk Feeder PART08"
+601,07- (3),Component,"18,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART07,"Plate (플레이트, 판재)","노른자피더 파트07 Plate (플레이트, 판재) Yolk Feeder PART07"
+602,07- (4),Component,"18,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART06,"Plate (플레이트, 판재)","노른자피더 파트06 Plate (플레이트, 판재) Yolk Feeder PART06"
+603,07- (5),Component,"55,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART05,"Plate (플레이트, 판재)","노른자피더 파트05 Plate (플레이트, 판재) Yolk Feeder PART05"
+604,07- (6),Component,0.00,THE ENGINEER,Aluminum Alloys,노른자피더 PART04,"Plate (플레이트, 판재)","노른자피더 파트04 Plate (플레이트, 판재) Yolk Feeder PART04"
+605,07- (7),Component,"42,000.00",THE ENGINEER,Stainless Steels,노른자피더 PART03,"Plate (플레이트, 판재)","노른자피더 파트03 Plate (플레이트, 판재) Yolk Feeder PART03"
+606,07- (8),Component,0.00,THE ENGINEER,Aluminum Alloys,노른자피더 PART02,"Plate (플레이트, 판재)","노른자피더 파트02 Plate (플레이트, 판재) Yolk Feeder PART02"
+607,07- (9),Component,"39,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART01,"Plate (플레이트, 판재)","노른자피더 파트01 Plate (플레이트, 판재) Yolk Feeder PART01"
+608,07- (10),Assembly,"25,000,000.00",THE ENGINEER,Ass'Y,흰자주입기 PART22,Assembly (조립품),흰자주입기 파트22 Assembly (조립품) Egg White Injector PART22
+609,07- (11),Component,0.00,THE ENGINEER,Aluminum Alloys,흰자주입기 PART20,"Plate (플레이트, 판재)","흰자주입기 파트20 Plate (플레이트, 판재) Egg White Injector PART20"
+610,07- (12),Component,"38,500.00",THE ENGINEER,Aluminum Alloys,흰자주입기 PART20,"Plate (플레이트, 판재)","흰자주입기 파트20 Plate (플레이트, 판재) Egg White Injector PART20"
+611,07- (13),Component,0.00,THE ENGINEER,Composite Materials,흰자주입기 PART19,"Plate (플레이트, 판재)","흰자주입기 파트19 Plate (플레이트, 판재) Egg White Injector PART19"
+612,07- (14),Component,0.00,THE ENGINEER,Composite Materials,흰자주입기 PART18,"Cover (커버, 덮개)","흰자주입기 파트18 Cover (커버, 덮개) Egg White Injector PART18"
+613,07- (15),Component,0.00,THE ENGINEER,Aluminum Alloys,흰자주입기 PART17,"Bracket (브라켓, 지지대)","흰자주입기 파트17 Bracket (브라켓, 지지대) Egg White Injector PART17"
+614,07- (16),Component,"14,000.00",THE ENGINEER,Aluminum Alloys,흰자주입기 PART16,"Bracket (브라켓, 지지대)","흰자주입기 파트16 Bracket (브라켓, 지지대) Egg White Injector PART16"
+615,07- (17),Component,0.00,THE ENGINEER,Aluminum Alloys,흰자주입기 PART15,"Guide (가이드, 안내부품)","흰자주입기 파트15 Guide (가이드, 안내부품) Egg White Injector PART15"
+616,07- (18),Component,"6,000.00",THE ENGINEER,Aluminum Alloys,흰자주입기 PART14,"Plate (플레이트, 판재)","흰자주입기 파트14 Plate (플레이트, 판재) Egg White Injector PART14"
+617,07- (19),Component,"13,000.00",THE ENGINEER,Aluminum Alloys,노른자피터 PART10,"Plate (플레이트, 판재)","노른자피터 파트10 Plate (플레이트, 판재) Yolk Feeder PART10"
+618,07- (20),Component,"6,000.00",THE ENGINEER,Tefron,인하대 실험기기 업다운 스테이지,"Plate (플레이트, 판재)","인하대 실험기기 업다운 스테이지 Plate (플레이트, 판재) Inha University Experimental Equipment Vertical Stage"
+619,07- (21),Component,"13,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 업다운 스테이지,"Guide (가이드, 안내부품)","인하대 실험기기 업다운 스테이지 Guide (가이드, 안내부품) Inha University Experimental Equipment Vertical Stage"
+620,07- (23),Component,"14,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 업다운 스테이지,"Plate (플레이트, 판재)","인하대 실험기기 업다운 스테이지 Plate (플레이트, 판재) Inha University Experimental Equipment Vertical Stage"
+621,07- (24),Component,"19,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 업다운 스테이지,"Plate (플레이트, 판재)","인하대 실험기기 업다운 스테이지 Plate (플레이트, 판재) Inha University Experimental Equipment Vertical Stage"
+622,07- (25),Component,"6,000.00",THE ENGINEER,Tefron,인하대 실험기기 업다운 스테이지,"Plate (플레이트, 판재)","인하대 실험기기 업다운 스테이지 Plate (플레이트, 판재) Inha University Experimental Equipment Vertical Stage"
+623,07- (27),Component,"10,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 업다운 스테이지,"Plate (플레이트, 판재)","인하대 실험기기 업다운 스테이지 Plate (플레이트, 판재) Inha University Experimental Equipment Vertical Stage"
+624,07- (28),Assembly,0.00,THE ENGINEER,Ass'Y,인하대 실험기기 업다운 스테이지,Assembly (조립품),인하대 실험기기 업다운 스테이지 Assembly (조립품) Inha University Experimental Equipment Vertical Stage
+625,07- (29),Assembly,"30,000,000.00",THE ENGINEER,Ass'Y,노른자피더 PART21,Assembly (조립품),노른자피더 파트21 Assembly (조립품) Yolk Feeder PART21
+626,07- (30),Component,0.00,THE ENGINEER,Polycarbonate,노른자피더 PART20,"Cover (커버, 덮개)","노른자피더 파트20 Cover (커버, 덮개) Yolk Feeder PART20"
+627,07- (31),Component,"4,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART19,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트19 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART19"
+628,07- (32),Component,"4,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART18,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트18 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART18"
+629,07- (33),Component,"10,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART17,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트17 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART17"
+630,07- (34),Component,"5,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART16,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트16 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART16"
+631,07- (35),Component,"2,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART15,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트15 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART15"
+632,07- (36),Component,"3,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART14,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트14 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART14"
+633,07- (37),Component,"3,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART13,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트13 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART13"
+634,07- (38),Component,"6,000.00",THE ENGINEER,Aluminum Alloys,노른자피더 PART12,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트12 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART12"
+635,07- (39),Component,0.00,THE ENGINEER,Aluminum Alloys,노른자피더 PART11,"Fix/Adjust (고정부품, 조정부품)","노른자피더 파트11 Fix/Adjust (고정부품, 조정부품) Yolk Feeder PART11"
+636,07- (40),Component,"18,000.00",THE ENGINEER,Aluminum Alloys,인하대 실험기기 업다운 스테이지,Support ( 지지대 / 서포트),인하대 실험기기 업다운 스테이지 Support ( 지지대 / 서포트) Inha University Experimental Equipment Vertical Stage
+637,밴딩기-(1),Component,0.00,DAEHAN TECH CO. Ltd,ESD PC,T-BENDING MP LINE,"Cover (커버, 덮개)","티 벤딩 MP 라인 Cover (커버, 덮개) T-BENDING MP LINE"
+638,밴딩기-(2),Component,"140,000.00",DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,"Plate (플레이트, 판재)","티 벤딩 MP 벤딩#1 Plate (플레이트, 판재) T-BENDING MP BENDING#1"
+639,밴딩기-(3),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩#1 Bracket (브라켓, 지지대) T-BENDING MP BENDING#1"
+640,밴딩기-(4),Component,"56,000.00",DAEHAN TECH CO. Ltd,Stainless Steels,T-BENDING MP BENDING#1,Nut (너트),티 벤딩 MP 벤딩#1 Nut (너트) T-BENDING MP BENDING#1
+641,밴딩기-(5),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩#1 Bracket (브라켓, 지지대) T-BENDING MP BENDING#1"
+642,밴딩기-(6),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,Sensor (센서),티 벤딩 MP 벤딩#1 Sensor (센서) T-BENDING MP BENDING#1
+643,밴딩기-(7),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,Sensor (센서),티 벤딩 MP 벤딩#1 Sensor (센서) T-BENDING MP BENDING#1
+644,밴딩기-(8),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩#1 Bracket (브라켓, 지지대) T-BENDING MP BENDING#1"
+645,밴딩기-(9),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,"Cover (커버, 덮개)","티 벤딩 MP 벤딩#1 Cover (커버, 덮개) T-BENDING MP BENDING#1"
+646,밴딩기-(10),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,"Cover (커버, 덮개)","티 벤딩 MP 벤딩#1 Cover (커버, 덮개) T-BENDING MP BENDING#1"
+647,밴딩기-(11),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,"Cover (커버, 덮개)","티 벤딩 MP 벤딩#1 Cover (커버, 덮개) T-BENDING MP BENDING#1"
+648,밴딩기-(12),Component,"994,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,Robot (로봇),티 벤딩 MP 벤딩#1 Robot (로봇) T-BENDING MP BENDING#1
+649,밴딩기-(13),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,"Base (블록,덩어리)","티 벤딩 MP 벤딩#1 Base (블록,덩어리) T-BENDING MP BENDING#1"
+650,밴딩기-(14),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,"Base (블록,덩어리)","티 벤딩 MP 벤딩#1 Base (블록,덩어리) T-BENDING MP BENDING#1"
+651,밴딩기-(15),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,"Base (블록,덩어리)","티 벤딩 MP 벤딩#1 Base (블록,덩어리) T-BENDING MP BENDING#1"
+652,밴딩기-(16),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩#1 Support ( 지지대 / 서포트) T-BENDING MP BENDING#1
+653,밴딩기-(17),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩#1 Support ( 지지대 / 서포트) T-BENDING MP BENDING#1
+654,밴딩기-(18),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩#1 Support ( 지지대 / 서포트) T-BENDING MP BENDING#1
+655,밴딩기-(19),Component,"1,120,000.00",DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING#1,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩#1 Support ( 지지대 / 서포트) T-BENDING MP BENDING#1
+656,밴딩기-(20),Component,"224,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,"Block (블록, 덩어리)","티 벤딩 MP 벤딩#1 Block (블록, 덩어리) T-BENDING MP BENDING#1"
+657,밴딩기-(21),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING#1,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩#1 Support ( 지지대 / 서포트) T-BENDING MP BENDING#1
+658,밴딩기-(22),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,T-BENDING MP BENDING#1,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩#1 Support ( 지지대 / 서포트) T-BENDING MP BENDING#1
+659,밴딩기-(23),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,T-BENDING MP BENDING#1,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩#1 Support ( 지지대 / 서포트) T-BENDING MP BENDING#1
+660,밴딩기-(24),Component,"28,000.00",DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP T-BONDING,"Cover (커버, 덮개)","티 벤딩 MP 티 본딩 접합 Cover (커버, 덮개) T-BENDING MP T-BONDING"
+661,밴딩기-(25),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP T-BONDING,"Bracket (브라켓, 지지대)","티 벤딩 MP 티 본딩 접합 Bracket (브라켓, 지지대) T-BENDING MP T-BONDING"
+662,밴딩기-(26),Component,"154,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,"Plate (플레이트, 판재)","티 벤딩 MP 티 본딩 접합 Plate (플레이트, 판재) T-BENDING MP T-BONDING"
+663,밴딩기-(27),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,"Plate (플레이트, 판재)","티 벤딩 MP 티 본딩 접합 Plate (플레이트, 판재) T-BENDING MP T-BONDING"
+664,밴딩기-(28),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,"Plate (플레이트, 판재)","티 벤딩 MP 티 본딩 접합 Plate (플레이트, 판재) T-BENDING MP T-BONDING"
+665,밴딩기-(29),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,"Plate (플레이트, 판재)","티 벤딩 MP 티 본딩 접합 Plate (플레이트, 판재) T-BENDING MP T-BONDING"
+666,밴딩기-(30),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,"Plate (플레이트, 판재)","티 벤딩 MP 티 본딩 접합 Plate (플레이트, 판재) T-BENDING MP T-BONDING"
+667,밴딩기-(31),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,"Cover (커버, 덮개)","티 벤딩 MP 티 본딩 접합 Cover (커버, 덮개) T-BENDING MP T-BONDING"
+668,밴딩기-(32),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,Support ( 지지대 / 서포트),티 벤딩 MP 티 본딩 접합 Support ( 지지대 / 서포트) T-BENDING MP T-BONDING
+669,밴딩기-(33),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,"Fix/Adjust (고정부품, 조정부품)","티 벤딩 MP 티 본딩 접합 Fix/Adjust (고정부품, 조정부품) T-BENDING MP T-BONDING"
+670,밴딩기-(34),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP T-BONDING,Support ( 지지대 / 서포트),티 벤딩 MP 티 본딩 접합 Support ( 지지대 / 서포트) T-BENDING MP T-BONDING
+671,밴딩기-(35),Component,"126,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+672,밴딩기-(36),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+673,밴딩기-(37),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+674,밴딩기-(38),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+675,밴딩기-(39),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,T-BENDING MP BENDING VISION,"Fix/Adjust (고정부품, 조정부품)","티 벤딩 MP 벤딩 비전 비젼 Fix/Adjust (고정부품, 조정부품) T-BENDING MP BENDING VISION"
+676,밴딩기-(40),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP BENDING VISION"
+677,밴딩기-(41),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP BENDING VISION"
+678,밴딩기-(42),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP BENDING VISION"
+679,밴딩기-(43),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING VISION,"Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+680,밴딩기-(44),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP BENDING VISION"
+681,밴딩기-(45),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP BENDING VISION,"Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+682,밴딩기-(46),Component,"168,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+683,밴딩기-(47),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,Robot (로봇),티 벤딩 MP 벤딩 비전 비젼 Robot (로봇) T-BENDING MP BENDING VISION
+684,밴딩기-(48),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Fix/Adjust (고정부품, 조정부품)","티 벤딩 MP 벤딩 비전 비젼 Fix/Adjust (고정부품, 조정부품) T-BENDING MP BENDING VISION"
+685,밴딩기-(49),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Plate (플레이트, 판재)","티 벤딩 MP 벤딩 비전 비젼 Plate (플레이트, 판재) T-BENDING MP BENDING VISION"
+686,밴딩기-(50),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Plate (플레이트, 판재)","티 벤딩 MP 벤딩 비전 비젼 Plate (플레이트, 판재) T-BENDING MP BENDING VISION"
+687,밴딩기-(51),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Base (블록,덩어리)","티 벤딩 MP 벤딩 비전 비젼 Base (블록,덩어리) T-BENDING MP BENDING VISION"
+688,밴딩기-(52),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Plate (플레이트, 판재)","티 벤딩 MP 벤딩 비전 비젼 Plate (플레이트, 판재) T-BENDING MP BENDING VISION"
+689,밴딩기-(53),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Plate (플레이트, 판재)","티 벤딩 MP 벤딩 비전 비젼 Plate (플레이트, 판재) T-BENDING MP BENDING VISION"
+690,밴딩기-(54),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP BENDING VISION"
+691,밴딩기-(55),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP BENDING VISION"
+692,밴딩기-(56),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Plate (플레이트, 판재)","티 벤딩 MP 벤딩 비전 비젼 Plate (플레이트, 판재) T-BENDING MP BENDING VISION"
+693,밴딩기-(57),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Plate (플레이트, 판재)","티 벤딩 MP 벤딩 비전 비젼 Plate (플레이트, 판재) T-BENDING MP BENDING VISION"
+694,밴딩기-(58),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 벤딩 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP BENDING VISION"
+695,밴딩기-(59),Component,0.00,DAEHAN TECH CO. Ltd,etc,T-BENDING MP BENDING VISION,"Pad (패드, 받침)","티 벤딩 MP 벤딩 비전 비젼 Pad (패드, 받침) T-BENDING MP BENDING VISION"
+696,밴딩기-(60),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Profile (프로파일, 단면)","티 벤딩 MP 벤딩 비전 비젼 Profile (프로파일, 단면) T-BENDING MP BENDING VISION"
+697,밴딩기-(61),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Frame (프레임, 골격, 틀)","티 벤딩 MP 벤딩 비전 비젼 Frame (프레임, 골격, 틀) T-BENDING MP BENDING VISION"
+698,밴딩기-(62),Component,"280,000.00",DAEHAN TECH CO. Ltd,etc,T-BENDING MP BENDING VISION,"Door (문)/Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Door (문)/Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+699,밴딩기-(63),Component,0.00,DAEHAN TECH CO. Ltd,etc,T-BENDING MP BENDING VISION,"Door (문)/Cover (커버, 덮개)","티 벤딩 MP 벤딩 비전 비젼 Door (문)/Cover (커버, 덮개) T-BENDING MP BENDING VISION"
+700,밴딩기-(64),Component,"567,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,"Frame (프레임, 골격, 틀)","티 벤딩 MP 벤딩 비전 비젼 Frame (프레임, 골격, 틀) T-BENDING MP BENDING VISION"
+701,밴딩기-(65),Component,"336,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP BENDING VISION,Support ( 지지대 / 서포트),티 벤딩 MP 벤딩 비전 비젼 Support ( 지지대 / 서포트) T-BENDING MP BENDING VISION
+702,밴딩기-(66),Assembly,0.00,DAEHAN TECH CO. Ltd,,T-BENDING MP INDEX,"Block (블록, 덩어리) ","티 벤딩 MP 인덱스 Block (블록, 덩어리)  T-BENDING MP INDEX"
+703,밴딩기-(67),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP INDEX,"Bracket (브라켓, 지지대)","티 벤딩 MP 인덱스 Bracket (브라켓, 지지대) T-BENDING MP INDEX"
+704,밴딩기-(68),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+705,밴딩기-(69),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP INDEX,"Cover (커버, 덮개)","티 벤딩 MP 인덱스 Cover (커버, 덮개) T-BENDING MP INDEX"
+706,밴딩기-(70),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP INDEX,"Cover (커버, 덮개)","티 벤딩 MP 인덱스 Cover (커버, 덮개) T-BENDING MP INDEX"
+707,밴딩기-(71),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP INDEX,"Cover (커버, 덮개)","티 벤딩 MP 인덱스 Cover (커버, 덮개) T-BENDING MP INDEX"
+708,밴딩기-(72),Component,"2,072,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+709,밴딩기-(73),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+710,밴딩기-(74),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+711,밴딩기-(75),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+712,밴딩기-(76),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+713,밴딩기-(77),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+714,밴딩기-(78),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+715,밴딩기-(79),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+716,밴딩기-(80),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Bracket (브라켓, 지지대)","티 벤딩 MP 인덱스 Bracket (브라켓, 지지대) T-BENDING MP INDEX"
+717,밴딩기-(81),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Bracket (브라켓, 지지대)","티 벤딩 MP 인덱스 Bracket (브라켓, 지지대) T-BENDING MP INDEX"
+718,밴딩기-(82),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,Sensor (센서),티 벤딩 MP 인덱스 Sensor (센서) T-BENDING MP INDEX
+719,밴딩기-(83),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Block (블록, 덩어리)","티 벤딩 MP 인덱스 Block (블록, 덩어리) T-BENDING MP INDEX"
+720,밴딩기-(84),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INDEX,"Plate (플레이트, 판재)","티 벤딩 MP 인덱스 Plate (플레이트, 판재) T-BENDING MP INDEX"
+721,밴딩기-(85),Component,"336,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,"Frame (프레임, 골격, 틀)","티 벤딩 MP 검사 점검 비전 비젼 Frame (프레임, 골격, 틀) T-BENDING MP INSPECTION VISION"
+722,밴딩기-(86),Component,"420,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,Support ( 지지대 / 서포트),티 벤딩 MP 검사 점검 비전 비젼 Support ( 지지대 / 서포트) T-BENDING MP INSPECTION VISION
+723,밴딩기-(87),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP SIDE VISION,Sensor (센서),티 벤딩 MP SIDE 비전 비젼 Sensor (센서) T-BENDING MP SIDE VISION
+724,밴딩기-(88),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP SIDE VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP SIDE 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP SIDE VISION"
+725,밴딩기-(89),Component,"252,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,"Plate (플레이트, 판재)","티 벤딩 MP SIDE 비전 비젼 Plate (플레이트, 판재) T-BENDING MP SIDE VISION"
+726,밴딩기-(90),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,"Plate (플레이트, 판재)","티 벤딩 MP SIDE 비전 비젼 Plate (플레이트, 판재) T-BENDING MP SIDE VISION"
+727,밴딩기-(91),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,Robot (로봇),티 벤딩 MP SIDE 비전 비젼 Robot (로봇) T-BENDING MP SIDE VISION
+728,밴딩기-(92),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,Robot (로봇),티 벤딩 MP SIDE 비전 비젼 Robot (로봇) T-BENDING MP SIDE VISION
+729,밴딩기-(93),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,"Base (블록,덩어리)","티 벤딩 MP SIDE 비전 비젼 Base (블록,덩어리) T-BENDING MP SIDE VISION"
+730,밴딩기-(94),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,"Base (블록,덩어리)","티 벤딩 MP SIDE 비전 비젼 Base (블록,덩어리) T-BENDING MP SIDE VISION"
+731,밴딩기-(95),Component,"252,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,"Fix/Adjust (고정부품, 조정부품)","티 벤딩 MP SIDE 비전 비젼 Fix/Adjust (고정부품, 조정부품) T-BENDING MP SIDE VISION"
+732,밴딩기-(96),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP SIDE VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP SIDE 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP SIDE VISION"
+733,밴딩기-(97),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,T-BENDING MP SIDE VISION,"Stopper (스토퍼, 멈추게 하는 부품)","티 벤딩 MP SIDE 비전 비젼 Stopper (스토퍼, 멈추게 하는 부품) T-BENDING MP SIDE VISION"
+734,밴딩기-(98),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP INSPECTION VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 검사 점검 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP INSPECTION VISION"
+735,밴딩기-(99),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP INSPECTION VISION,"Cover (커버, 덮개)","티 벤딩 MP 검사 점검 비전 비젼 Cover (커버, 덮개) T-BENDING MP INSPECTION VISION"
+736,밴딩기-(100),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP INSPECTION VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 검사 점검 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP INSPECTION VISION"
+737,밴딩기-(101),Component,"266,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,Robot (로봇),티 벤딩 MP 검사 점검 비전 비젼 Robot (로봇) T-BENDING MP INSPECTION VISION
+738,밴딩기-(102),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,"Plate (플레이트, 판재)","티 벤딩 MP 검사 점검 비전 비젼 Plate (플레이트, 판재) T-BENDING MP INSPECTION VISION"
+739,밴딩기-(103),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,"Bracket (브라켓, 지지대)","티 벤딩 MP 검사 점검 비전 비젼 Bracket (브라켓, 지지대) T-BENDING MP INSPECTION VISION"
+740,밴딩기-(104),Component,"42,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,"Cover (커버, 덮개)","티 벤딩 MP 검사 점검 비전 비젼 Cover (커버, 덮개) T-BENDING MP INSPECTION VISION"
+741,밴딩기-(105),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,"Cover (커버, 덮개)","티 벤딩 MP 검사 점검 비전 비젼 Cover (커버, 덮개) T-BENDING MP INSPECTION VISION"
+742,밴딩기-(106),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,"Cover (커버, 덮개)","티 벤딩 MP 검사 점검 비전 비젼 Cover (커버, 덮개) T-BENDING MP INSPECTION VISION"
+743,밴딩기-(107),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP INSPECTION VISION,"Frame (프레임, 골격, 틀)","티 벤딩 MP 검사 점검 비전 비젼 Frame (프레임, 골격, 틀) T-BENDING MP INSPECTION VISION"
+744,밴딩기-(108),Component,0.00,DAEHAN TECH CO. Ltd,etc,T-BENDING MP INSPECTION VISION,"Door (문)/Cover (커버, 덮개)","티 벤딩 MP 검사 점검 비전 비젼 Door (문)/Cover (커버, 덮개) T-BENDING MP INSPECTION VISION"
+745,밴딩기-(109),Component,0.00,DAEHAN TECH CO. Ltd,etc,T-BENDING MP INSPECTION VISION,"Door (문)/Cover (커버, 덮개)","티 벤딩 MP 검사 점검 비전 비젼 Door (문)/Cover (커버, 덮개) T-BENDING MP INSPECTION VISION"
+746,밴딩기-(110),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Cover (커버, 덮개)","티 벤딩 MP 사전 정렬 Cover (커버, 덮개) T BENDING MP PRE ALIGN"
+747,밴딩기-(111),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Cover (커버, 덮개)","티 벤딩 MP 사전 정렬 Cover (커버, 덮개) T BENDING MP PRE ALIGN"
+748,밴딩기-(112),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,T BENDING MP PRE ALIGN,"Plate (플레이트, 판재)","티 벤딩 MP 사전 정렬 Plate (플레이트, 판재) T BENDING MP PRE ALIGN"
+749,밴딩기-(113),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP PRE ALIGN,"Bracket (브라켓, 지지대)","티 벤딩 MP 사전 정렬 Bracket (브라켓, 지지대) T BENDING MP PRE ALIGN"
+750,밴딩기-(114),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP PRE ALIGN,"Bracket (브라켓, 지지대)","티 벤딩 MP 사전 정렬 Bracket (브라켓, 지지대) T BENDING MP PRE ALIGN"
+751,밴딩기-(115),Component,"553,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Plate (플레이트, 판재)","티 벤딩 MP 사전 정렬 Plate (플레이트, 판재) T BENDING MP PRE ALIGN"
+752,밴딩기-(116),Component,"196,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Plate (플레이트, 판재)","티 벤딩 MP 사전 정렬 Plate (플레이트, 판재) T BENDING MP PRE ALIGN"
+753,밴딩기-(117),Component,"224,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Plate (플레이트, 판재)","티 벤딩 MP 사전 정렬 Plate (플레이트, 판재) T BENDING MP PRE ALIGN"
+754,밴딩기-(118),Component,"224,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Plate (플레이트, 판재)","티 벤딩 MP 사전 정렬 Plate (플레이트, 판재) T BENDING MP PRE ALIGN"
+755,밴딩기-(119),Component,"700,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Plate (플레이트, 판재)","티 벤딩 MP 사전 정렬 Plate (플레이트, 판재) T BENDING MP PRE ALIGN"
+756,밴딩기-(120),Component,"238,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Plate (플레이트, 판재)","티 벤딩 MP 사전 정렬 Plate (플레이트, 판재) T BENDING MP PRE ALIGN"
+757,밴딩기-(121),Component,"322,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,"Base (블록,덩어리)","티 벤딩 MP 사전 정렬 Base (블록,덩어리) T BENDING MP PRE ALIGN"
+758,밴딩기-(122),Component,"280,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP PRE ALIGN,Support ( 지지대 / 서포트),티 벤딩 MP 사전 정렬 Support ( 지지대 / 서포트) T BENDING MP PRE ALIGN
+759,밴딩기-(123),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Bracket (브라켓, 지지대)","티 벤딩 MP NGPT 유닛 단위 Bracket (브라켓, 지지대) T BENDING MP NGPT UNIT"
+760,밴딩기-(124),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Base (블록,덩어리)","티 벤딩 MP NGPT 유닛 단위 Base (블록,덩어리) T BENDING MP NGPT UNIT"
+761,밴딩기-(125),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Bracket (브라켓, 지지대)","티 벤딩 MP NGPT 유닛 단위 Bracket (브라켓, 지지대) T BENDING MP NGPT UNIT"
+762,밴딩기-(126),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,Sensor (센서),티 벤딩 MP NGPT 유닛 단위 Sensor (센서) T BENDING MP NGPT UNIT
+763,밴딩기-(127),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,Sensor (센서),티 벤딩 MP NGPT 유닛 단위 Sensor (센서) T BENDING MP NGPT UNIT
+764,밴딩기-(128),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,Sensor (센서),티 벤딩 MP NGPT 유닛 단위 Sensor (센서) T BENDING MP NGPT UNIT
+765,밴딩기-(129),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Plate (플레이트, 판재)","티 벤딩 MP NGPT 유닛 단위 Plate (플레이트, 판재) T BENDING MP NGPT UNIT"
+766,밴딩기-(130),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Bracket (브라켓, 지지대)","티 벤딩 MP NGPT 유닛 단위 Bracket (브라켓, 지지대) T BENDING MP NGPT UNIT"
+767,밴딩기-(131),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Bracket (브라켓, 지지대)","티 벤딩 MP NGPT 유닛 단위 Bracket (브라켓, 지지대) T BENDING MP NGPT UNIT"
+768,밴딩기-(132),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Bracket (브라켓, 지지대)","티 벤딩 MP NGPT 유닛 단위 Bracket (브라켓, 지지대) T BENDING MP NGPT UNIT"
+769,밴딩기-(133),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,Sensor (센서),티 벤딩 MP NGPT 유닛 단위 Sensor (센서) T BENDING MP NGPT UNIT
+770,밴딩기-(134),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,T BENDING MP NGPT UNIT,Sensor (센서),티 벤딩 MP NGPT 유닛 단위 Sensor (센서) T BENDING MP NGPT UNIT
+771,밴딩기-(135),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING MP NGPT UNIT,"Bracket (브라켓, 지지대)","티 벤딩 MP NGPT 유닛 단위 Bracket (브라켓, 지지대) T BENDING MP NGPT UNIT"
+772,밴딩기-(136),Component,"343,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP NGPT UNIT,"Plate (플레이트, 판재)","티 벤딩 MP NGPT 유닛 단위 Plate (플레이트, 판재) T BENDING MP NGPT UNIT"
+773,밴딩기-(137),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP NGPT UNIT,"Block (블록, 덩어리)","티 벤딩 MP NGPT 유닛 단위 Block (블록, 덩어리) T BENDING MP NGPT UNIT"
+774,밴딩기-(138),Component,"168,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP NGPT UNIT,"Guide (가이드, 안내부품)","티 벤딩 MP NGPT 유닛 단위 Guide (가이드, 안내부품) T BENDING MP NGPT UNIT"
+775,밴딩기-(139),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING MP NGPT UNIT,"Base (블록,덩어리)","티 벤딩 MP NGPT 유닛 단위 Base (블록,덩어리) T BENDING MP NGPT UNIT"
+776,밴딩기-(140),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING REARLINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 리어라이너 필링 Bracket (브라켓, 지지대) T BENDING REARLINER PEELING"
+777,밴딩기-(141),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING REARLINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 리어라이너 필링 Bracket (브라켓, 지지대) T BENDING REARLINER PEELING"
+778,밴딩기-(142),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING REARLINER PEELING,"Plate (플레이트, 판재)","티 벤딩 리어라이너 필링 Plate (플레이트, 판재) T BENDING REARLINER PEELING"
+779,밴딩기-(143),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING REARLINER PEELING,"Cover (커버, 덮개)","티 벤딩 리어라이너 필링 Cover (커버, 덮개) T BENDING REARLINER PEELING"
+780,밴딩기-(144),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING REARLINER PEELING,"Cover (커버, 덮개)","티 벤딩 리어라이너 필링 Cover (커버, 덮개) T BENDING REARLINER PEELING"
+781,밴딩기-(145),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T BENDING REARLINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 리어라이너 필링 Bracket (브라켓, 지지대) T BENDING REARLINER PEELING"
+782,밴딩기-(146),Component,"1,120,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,"Plate (플레이트, 판재)","티 벤딩 리어라이너 필링 Plate (플레이트, 판재) T BENDING REARLINER PEELING"
+783,밴딩기-(147),Component,"1,260,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,"Plate (플레이트, 판재)","티 벤딩 리어라이너 필링 Plate (플레이트, 판재) T BENDING REARLINER PEELING"
+784,밴딩기-(148),Component,"1,008,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,"Plate (플레이트, 판재)","티 벤딩 리어라이너 필링 Plate (플레이트, 판재) T BENDING REARLINER PEELING"
+785,밴딩기-(149),Component,"140,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,"Block (블록, 덩어리)","티 벤딩 리어라이너 필링 Block (블록, 덩어리) T BENDING REARLINER PEELING"
+786,밴딩기-(150),Component,"343,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,Robot (로봇),티 벤딩 리어라이너 필링 Robot (로봇) T BENDING REARLINER PEELING
+787,밴딩기-(151),Component,"147,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,Robot (로봇),티 벤딩 리어라이너 필링 Robot (로봇) T BENDING REARLINER PEELING
+788,밴딩기-(152),Component,"392,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,Sensor (센서),티 벤딩 리어라이너 필링 Sensor (센서) T BENDING REARLINER PEELING
+789,밴딩기-(153),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,"Cover (커버, 덮개)","티 벤딩 리어라이너 필링 Cover (커버, 덮개) T BENDING REARLINER PEELING"
+790,밴딩기-(154),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,"Cover (커버, 덮개)","티 벤딩 리어라이너 필링 Cover (커버, 덮개) T BENDING REARLINER PEELING"
+791,밴딩기-(155),Component,"539,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T BENDING REARLINER PEELING,Support ( 지지대 / 서포트),티 벤딩 리어라이너 필링 Support ( 지지대 / 서포트) T BENDING REARLINER PEELING
+792,밴딩기-(156),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,기타 (etc),티 벤딩 메가라이너 필링 기타 (etc) T-BENDING MEGALINER PEELING
+793,밴딩기-(157),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 메가라이너 필링 Bracket (브라켓, 지지대) T-BENDING MEGALINER PEELING"
+794,밴딩기-(158),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 메가라이너 필링 Bracket (브라켓, 지지대) T-BENDING MEGALINER PEELING"
+795,밴딩기-(159),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 메가라이너 필링 Bracket (브라켓, 지지대) T-BENDING MEGALINER PEELING"
+796,밴딩기-(160),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Cover (커버, 덮개)","티 벤딩 메가라이너 필링 Cover (커버, 덮개) T-BENDING MEGALINER PEELING"
+797,밴딩기-(161),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Cover (커버, 덮개)","티 벤딩 메가라이너 필링 Cover (커버, 덮개) T-BENDING MEGALINER PEELING"
+798,밴딩기-(162),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Cover (커버, 덮개)","티 벤딩 메가라이너 필링 Cover (커버, 덮개) T-BENDING MEGALINER PEELING"
+799,밴딩기-(163),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,T-BENDING MEGALINER PEELING,Nut (너트),티 벤딩 메가라이너 필링 Nut (너트) T-BENDING MEGALINER PEELING
+800,밴딩기-(164),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 메가라이너 필링 Bracket (브라켓, 지지대) T-BENDING MEGALINER PEELING"
+801,밴딩기-(165),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MEGALINER PEELING,"Cover (커버, 덮개)","티 벤딩 메가라이너 필링 Cover (커버, 덮개) T-BENDING MEGALINER PEELING"
+802,밴딩기-(166),Component,"399,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MEGALINER PEELING,"Plate (플레이트, 판재)","티 벤딩 메가라이너 필링 Plate (플레이트, 판재) T-BENDING MEGALINER PEELING"
+803,밴딩기-(167),Component,"476,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MEGALINER PEELING,"Plate (플레이트, 판재)","티 벤딩 메가라이너 필링 Plate (플레이트, 판재) T-BENDING MEGALINER PEELING"
+804,밴딩기-(168),Component,"182,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MEGALINER PEELING,"Plate (플레이트, 판재)","티 벤딩 메가라이너 필링 Plate (플레이트, 판재) T-BENDING MEGALINER PEELING"
+805,밴딩기-(169),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MEGALINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 메가라이너 필링 Bracket (브라켓, 지지대) T-BENDING MEGALINER PEELING"
+806,밴딩기-(170),Component,"154,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MEGALINER PEELING,"Bracket (브라켓, 지지대)","티 벤딩 메가라이너 필링 Bracket (브라켓, 지지대) T-BENDING MEGALINER PEELING"
+807,밴딩기-(171),Component,"224,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MEGALINER PEELING,"Base (블록,덩어리)","티 벤딩 메가라이너 필링 Base (블록,덩어리) T-BENDING MEGALINER PEELING"
+808,밴딩기-(172),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING T-FPC PEELING,"Plate (플레이트, 판재)","티 벤딩 티 FPC 필링 Plate (플레이트, 판재) T-BENDING T-FPC PEELING"
+809,밴딩기-(173),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING T-FPC PEELING,"Cover (커버, 덮개)","티 벤딩 티 FPC 필링 Cover (커버, 덮개) T-BENDING T-FPC PEELING"
+810,밴딩기-(174),Component,"84,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING T-FPC PEELING,"Cover (커버, 덮개)","티 벤딩 티 FPC 필링 Cover (커버, 덮개) T-BENDING T-FPC PEELING"
+811,밴딩기-(175),Component,"420,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING T-FPC PEELING,Support ( 지지대 / 서포트),티 벤딩 티 FPC 필링 Support ( 지지대 / 서포트) T-BENDING T-FPC PEELING
+812,밴딩기-(176),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Bracket (브라켓, 지지대)","티 벤딩 TFPC 스트레치치 테이프 필링 Bracket (브라켓, 지지대) T-BENDING TFPC STRETCH TAPE PEELING"
+813,밴딩기-(177),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Bracket (브라켓, 지지대)","티 벤딩 TFPC 스트레치치 테이프 필링 Bracket (브라켓, 지지대) T-BENDING TFPC STRETCH TAPE PEELING"
+814,밴딩기-(178),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Bracket (브라켓, 지지대)","티 벤딩 TFPC 스트레치치 테이프 필링 Bracket (브라켓, 지지대) T-BENDING TFPC STRETCH TAPE PEELING"
+815,밴딩기-(179),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Plate (플레이트, 판재)","티 벤딩 TFPC 스트레치치 테이프 필링 Plate (플레이트, 판재) T-BENDING TFPC STRETCH TAPE PEELING"
+816,밴딩기-(180),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Plate (플레이트, 판재)","티 벤딩 TFPC 스트레치치 테이프 필링 Plate (플레이트, 판재) T-BENDING TFPC STRETCH TAPE PEELING"
+817,밴딩기-(181),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Cover (커버, 덮개)","티 벤딩 TFPC 스트레치치 테이프 필링 Cover (커버, 덮개) T-BENDING TFPC STRETCH TAPE PEELING"
+818,밴딩기-(182),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Cover (커버, 덮개)","티 벤딩 TFPC 스트레치치 테이프 필링 Cover (커버, 덮개) T-BENDING TFPC STRETCH TAPE PEELING"
+819,밴딩기-(183),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Bracket (브라켓, 지지대)","티 벤딩 TFPC 스트레치치 테이프 필링 Bracket (브라켓, 지지대) T-BENDING TFPC STRETCH TAPE PEELING"
+820,밴딩기-(184),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Bracket (브라켓, 지지대)","티 벤딩 TFPC 스트레치치 테이프 필링 Bracket (브라켓, 지지대) T-BENDING TFPC STRETCH TAPE PEELING"
+821,밴딩기-(185),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH TAPE PEELING,"Guide (가이드, 안내부품)","티 벤딩 TFPC 스트레치치 테이프 필링 Guide (가이드, 안내부품) T-BENDING TFPC STRETCH TAPE PEELING"
+822,밴딩기-(186),Component,"112,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,Support ( 지지대 / 서포트),티 벤딩 TFPC 스트레치치 테이프 필링 Support ( 지지대 / 서포트) T-BENDING TFPC STRETCH TAPE PEELING
+823,밴딩기-(187),Component,"322,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,"Plate (플레이트, 판재)","티 벤딩 TFPC 스트레치치 테이프 필링 Plate (플레이트, 판재) T-BENDING TFPC STRETCH TAPE PEELING"
+824,밴딩기-(188),Component,"140,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,"Base (블록,덩어리)","티 벤딩 TFPC 스트레치치 테이프 필링 Base (블록,덩어리) T-BENDING TFPC STRETCH TAPE PEELING"
+825,밴딩기-(189),Component,"280,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,"Plate (플레이트, 판재)","티 벤딩 TFPC 스트레치치 테이프 필링 Plate (플레이트, 판재) T-BENDING TFPC STRETCH TAPE PEELING"
+826,밴딩기-(190),Component,"203,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,"Plate (플레이트, 판재)","티 벤딩 TFPC 스트레치치 테이프 필링 Plate (플레이트, 판재) T-BENDING TFPC STRETCH TAPE PEELING"
+827,밴딩기-(191),Component,"105,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,Support ( 지지대 / 서포트),티 벤딩 TFPC 스트레치치 테이프 필링 Support ( 지지대 / 서포트) T-BENDING TFPC STRETCH TAPE PEELING
+828,밴딩기-(192),Component,"98,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,Support ( 지지대 / 서포트),티 벤딩 TFPC 스트레치치 테이프 필링 Support ( 지지대 / 서포트) T-BENDING TFPC STRETCH TAPE PEELING
+829,밴딩기-(193),Component,"56,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,"Bracket (브라켓, 지지대)","티 벤딩 TFPC 스트레치치 테이프 필링 Bracket (브라켓, 지지대) T-BENDING TFPC STRETCH TAPE PEELING"
+830,밴딩기-(194),Component,"84,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,"Cover (커버, 덮개)","티 벤딩 TFPC 스트레치치 테이프 필링 Cover (커버, 덮개) T-BENDING TFPC STRETCH TAPE PEELING"
+831,밴딩기-(195),Component,"84,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,"Cover (커버, 덮개)","티 벤딩 TFPC 스트레치치 테이프 필링 Cover (커버, 덮개) T-BENDING TFPC STRETCH TAPE PEELING"
+832,밴딩기-(196),Component,"595,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,Support ( 지지대 / 서포트),티 벤딩 TFPC 스트레치치 테이프 필링 Support ( 지지대 / 서포트) T-BENDING TFPC STRETCH TAPE PEELING
+833,밴딩기-(197),Component,"224,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH TAPE PEELING,Support ( 지지대 / 서포트),티 벤딩 TFPC 스트레치치 테이프 필링 Support ( 지지대 / 서포트) T-BENDING TFPC STRETCH TAPE PEELING
+834,밴딩기-(198),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH PEELING,"Plate (플레이트, 판재)","티 벤딩 TFPC 스트레치치 필링 Plate (플레이트, 판재) T-BENDING TFPC STRETCH PEELING"
+835,밴딩기-(199),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING TFPC STRETCH PEELING,"Cover (커버, 덮개)","티 벤딩 TFPC 스트레치치 필링 Cover (커버, 덮개) T-BENDING TFPC STRETCH PEELING"
+836,밴딩기-(200),Component,"42,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH PEELING,"Cover (커버, 덮개)","티 벤딩 TFPC 스트레치치 필링 Cover (커버, 덮개) T-BENDING TFPC STRETCH PEELING"
+837,밴딩기-(201),Component,"42,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH PEELING,"Cover (커버, 덮개)","티 벤딩 TFPC 스트레치치 필링 Cover (커버, 덮개) T-BENDING TFPC STRETCH PEELING"
+838,밴딩기-(202),Component,"539,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING TFPC STRETCH PEELING,Support ( 지지대 / 서포트),티 벤딩 TFPC 스트레치치 필링 Support ( 지지대 / 서포트) T-BENDING TFPC STRETCH PEELING
+839,밴딩기-(203),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING DFPC STRETCH PEELING,"Plate (플레이트, 판재)","티 벤딩 DFPC 스트레치치 필링 Plate (플레이트, 판재) T-BENDING DFPC STRETCH PEELING"
+840,밴딩기-(204),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING DFPC STRETCH PEELING,"Cover (커버, 덮개)","티 벤딩 DFPC 스트레치치 필링 Cover (커버, 덮개) T-BENDING DFPC STRETCH PEELING"
+841,밴딩기-(205),Component,"84,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING DFPC STRETCH PEELING,"Cover (커버, 덮개)","티 벤딩 DFPC 스트레치치 필링 Cover (커버, 덮개) T-BENDING DFPC STRETCH PEELING"
+842,밴딩기-(206),Component,"427,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING DFPC STRETCH PEELING,Support ( 지지대 / 서포트),티 벤딩 DFPC 스트레치치 필링 Support ( 지지대 / 서포트) T-BENDING DFPC STRETCH PEELING
+843,밴딩기-(207),Assembly,0.00,DAEHAN TECH CO. Ltd,,T-BENDING MP PPU #1,"Power (전원, 전원관련부품)","티 벤딩 MP PPU #1 Power (전원, 전원관련부품) T-BENDING MP PPU #1"
+844,밴딩기-(208),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Plate (플레이트, 판재)","티 벤딩 MP PPU #1 Plate (플레이트, 판재) T-BENDING MP PPU #1"
+845,밴딩기-(209),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Plate (플레이트, 판재)","티 벤딩 MP PPU #1 Plate (플레이트, 판재) T-BENDING MP PPU #1"
+846,밴딩기-(210),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,T-BENDING MP PPU #1,Support ( 지지대 / 서포트),티 벤딩 MP PPU #1 Support ( 지지대 / 서포트) T-BENDING MP PPU #1
+847,밴딩기-(211),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+848,밴딩기-(212),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Cover (커버, 덮개)","티 벤딩 MP PPU #1 Cover (커버, 덮개) T-BENDING MP PPU #1"
+849,밴딩기-(213),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+850,밴딩기-(214),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+851,밴딩기-(215),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,T-BENDING MP PPU #1,"Power (전원, 전원관련부품)","티 벤딩 MP PPU #1 Power (전원, 전원관련부품) T-BENDING MP PPU #1"
+852,밴딩기-(216),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+853,밴딩기-(217),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+854,밴딩기-(218),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Plate (플레이트, 판재)","티 벤딩 MP PPU #1 Plate (플레이트, 판재) T-BENDING MP PPU #1"
+855,밴딩기-(219),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Cover (커버, 덮개)","티 벤딩 MP PPU #1 Cover (커버, 덮개) T-BENDING MP PPU #1"
+856,밴딩기-(220),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Cover (커버, 덮개)","티 벤딩 MP PPU #1 Cover (커버, 덮개) T-BENDING MP PPU #1"
+857,밴딩기-(221),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+858,밴딩기-(222),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #1,"Cover (커버, 덮개)","티 벤딩 MP PPU #1 Cover (커버, 덮개) T-BENDING MP PPU #1"
+859,밴딩기-(223),Component,"4,025,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,Support ( 지지대 / 서포트),티 벤딩 MP PPU #1 Support ( 지지대 / 서포트) T-BENDING MP PPU #1
+860,밴딩기-(224),Component,"1,344,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,Support ( 지지대 / 서포트),티 벤딩 MP PPU #1 Support ( 지지대 / 서포트) T-BENDING MP PPU #1
+861,밴딩기-(225),Component,"665,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Base (블록,덩어리)","티 벤딩 MP PPU #1 Base (블록,덩어리) T-BENDING MP PPU #1"
+862,밴딩기-(226),Component,"2,016,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,Robot (로봇),티 벤딩 MP PPU #1 Robot (로봇) T-BENDING MP PPU #1
+863,밴딩기-(227),Component,"1,232,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,Robot (로봇),티 벤딩 MP PPU #1 Robot (로봇) T-BENDING MP PPU #1
+864,밴딩기-(228),Component,"427,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,Robot (로봇),티 벤딩 MP PPU #1 Robot (로봇) T-BENDING MP PPU #1
+865,밴딩기-(229),Component,"455,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+866,밴딩기-(230),Component,"210,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #1 Bracket (브라켓, 지지대) T-BENDING MP PPU #1"
+867,밴딩기-(231),Component,"1,890,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Plate (플레이트, 판재)","티 벤딩 MP PPU #1 Plate (플레이트, 판재) T-BENDING MP PPU #1"
+868,밴딩기-(232),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Profile (프로파일, 단면)","티 벤딩 MP PPU #1 Profile (프로파일, 단면) T-BENDING MP PPU #1"
+869,밴딩기-(233),Component,"3,360,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Profile (프로파일, 단면)","티 벤딩 MP PPU #1 Profile (프로파일, 단면) T-BENDING MP PPU #1"
+870,밴딩기-(234),Component,"3,024,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Block (블록, 덩어리)","티 벤딩 MP PPU #1 Block (블록, 덩어리) T-BENDING MP PPU #1"
+871,밴딩기-(235),Component,"3,780,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Block (블록, 덩어리)","티 벤딩 MP PPU #1 Block (블록, 덩어리) T-BENDING MP PPU #1"
+872,밴딩기-(236),Component,"1,400,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,Support ( 지지대 / 서포트),티 벤딩 MP PPU #1 Support ( 지지대 / 서포트) T-BENDING MP PPU #1
+873,밴딩기-(237),Component,"560,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,Nut (너트),티 벤딩 MP PPU #1 Nut (너트) T-BENDING MP PPU #1
+874,밴딩기-(238),Component,"210,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Cover (커버, 덮개)","티 벤딩 MP PPU #1 Cover (커버, 덮개) T-BENDING MP PPU #1"
+875,밴딩기-(239),Component,"56,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Cover (커버, 덮개)","티 벤딩 MP PPU #1 Cover (커버, 덮개) T-BENDING MP PPU #1"
+876,밴딩기-(240),Component,"56,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #1,"Cover (커버, 덮개)","티 벤딩 MP PPU #1 Cover (커버, 덮개) T-BENDING MP PPU #1"
+877,밴딩기-(241),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #2,Support ( 지지대 / 서포트),티 벤딩 MP PPU #2 Support ( 지지대 / 서포트) T-BENDING MP PPU #2
+878,밴딩기-(242),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,T-BENDING MP PPU #2,"Base (블록,덩어리)","티 벤딩 MP PPU #2 Base (블록,덩어리) T-BENDING MP PPU #2"
+879,밴딩기-(243),Assembly,0.00,DAEHAN TECH CO. Ltd,,T-BENDING MP PPU #2,"Power (전원, 전원관련부품)","티 벤딩 MP PPU #2 Power (전원, 전원관련부품) T-BENDING MP PPU #2"
+880,밴딩기-(244),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #2,"Plate (플레이트, 판재)","티 벤딩 MP PPU #2 Plate (플레이트, 판재) T-BENDING MP PPU #2"
+881,밴딩기-(245),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #2,"Plate (플레이트, 판재)","티 벤딩 MP PPU #2 Plate (플레이트, 판재) T-BENDING MP PPU #2"
+882,밴딩기-(246),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #2,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #2 Bracket (브라켓, 지지대) T-BENDING MP PPU #2"
+883,밴딩기-(247),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #2,"Cover (커버, 덮개)","티 벤딩 MP PPU #2 Cover (커버, 덮개) T-BENDING MP PPU #2"
+884,밴딩기-(248),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #2,"Cover (커버, 덮개)","티 벤딩 MP PPU #2 Cover (커버, 덮개) T-BENDING MP PPU #2"
+885,밴딩기-(249),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #2,"Cover (커버, 덮개)","티 벤딩 MP PPU #2 Cover (커버, 덮개) T-BENDING MP PPU #2"
+886,밴딩기-(250),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,T-BENDING MP PPU #2,"Bracket (브라켓, 지지대)","티 벤딩 MP PPU #2 Bracket (브라켓, 지지대) T-BENDING MP PPU #2"
+887,벤딩기-(251),Component,"16,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP PPU#2 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP PPU#2
+888,벤딩기-(252),Component,"280,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#2 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#2"
+889,벤딩기-(253),Component,"392,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#2 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#2"
+890,벤딩기-(254),Component,"280,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#2 Robot (로봇) D19075 PJT. T-BENDING MP PPU#2
+891,벤딩기-(255),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+892,벤딩기-(256),Component,"210,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+893,벤딩기-(257),Component,"651,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+894,벤딩기-(258),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+895,벤딩기-(259),Component,"441,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+896,벤딩기-(260),Component,"378,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+897,벤딩기-(261),Component,"378,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+898,벤딩기-(262),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#2"
+899,벤딩기-(263),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#2"
+900,벤딩기-(264),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#2"
+901,벤딩기-(265),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#2"
+902,벤딩기-(266),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#2"
+903,벤딩기-(267),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#2"
+904,벤딩기-(268),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#2"
+905,벤딩기-(269),Assembly,0.00,DAEHAN TECH CO. Ltd,,D19075 PJT. T-BENDING MP PPU#3,"Power (전원, 전원관련부품)","D19075 PJT. 티 벤딩 MP PPU#3 Power (전원, 전원관련부품) D19075 PJT. T-BENDING MP PPU#3"
+906,벤딩기-(270),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#3 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#3"
+907,벤딩기-(271),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#3 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#3"
+908,벤딩기-(272),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#3 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#3"
+909,벤딩기-(273),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#3 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#3"
+910,벤딩기-(274),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#3"
+911,벤딩기-(275),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#3"
+912,벤딩기-(276),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#3"
+913,벤딩기-(277),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#3"
+914,벤딩기-(278),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#3 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#3"
+915,벤딩기-(279),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#3 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#3"
+916,벤딩기-(280),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#3"
+917,벤딩기-(281),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#3"
+918,벤딩기-(282),Component,"707,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP PPU#3 Base (블록,덩어리) D19075 PJT. T-BENDING MP PPU#3"
+919,벤딩기-(283),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#3 Robot (로봇) D19075 PJT. T-BENDING MP PPU#3
+920,벤딩기-(284),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#3 Robot (로봇) D19075 PJT. T-BENDING MP PPU#3
+921,벤딩기-(285),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#3 Robot (로봇) D19075 PJT. T-BENDING MP PPU#3
+922,벤딩기-(286),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#3 Robot (로봇) D19075 PJT. T-BENDING MP PPU#3
+923,벤딩기-(287),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#3 Robot (로봇) D19075 PJT. T-BENDING MP PPU#3
+924,벤딩기-(288),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#3 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#3"
+925,벤딩기-(289),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#3 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#3"
+926,벤딩기-(290),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#3"
+927,벤딩기-(291),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,D19075 PJT. T-BENDING MP PPU#3,"Stopper (스토퍼, 멈추게 하는 부품)","D19075 PJT. 티 벤딩 MP PPU#3 Stopper (스토퍼, 멈추게 하는 부품) D19075 PJT. T-BENDING MP PPU#3"
+928,벤딩기-(292),Component,"112,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#3,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP PPU#3 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP PPU#3
+929,벤딩기-(293),Assembly,0.00,DAEHAN TECH CO. Ltd,,D19075 PJT. T-BENDING MP PPU#4(TURN),"Power (전원, 전원관련부품)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Power (전원, 전원관련부품) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+930,벤딩기-(294),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),Sensor (센서),D19075 PJT. 티 벤딩 MP PPU#4(회전) Sensor (센서) D19075 PJT. T-BENDING MP PPU#4(TURN)
+931,벤딩기-(295),Component,0.00,DAEHAN TECH CO. Ltd,,D19075 PJT. T-BENDING MP PPU#4(TURN),Sensor (센서),D19075 PJT. 티 벤딩 MP PPU#4(회전) Sensor (센서) D19075 PJT. T-BENDING MP PPU#4(TURN)
+932,벤딩기-(296),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+933,벤딩기-(297),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+934,벤딩기-(298),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+935,벤딩기-(299),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+936,벤딩기-(300),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+937,벤딩기-(301),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+938,벤딩기-(302),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Base (블록,덩어리) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+939,벤딩기-(303),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Base (블록,덩어리) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+940,벤딩기-(304),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Base (블록,덩어리) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+941,벤딩기-(305),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Base (블록,덩어리) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+942,벤딩기-(306),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+943,벤딩기-(307),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+944,벤딩기-(308),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+945,벤딩기-(309),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#4(TURN),"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+946,벤딩기-(310),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),"Stopper (스토퍼, 멈추게 하는 부품)","D19075 PJT. 티 벤딩 MP PPU#4(회전) Stopper (스토퍼, 멈추게 하는 부품) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+947,벤딩기-(311),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,D19075 PJT. T-BENDING MP PPU#4(TURN),"shaft (샤프트, 축)","D19075 PJT. 티 벤딩 MP PPU#4(회전) shaft (샤프트, 축) D19075 PJT. T-BENDING MP PPU#4(TURN)"
+948,벤딩기-(312),Component,"588,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#5(TURN),"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP PPU#5(회전) Base (블록,덩어리) D19075 PJT. T-BENDING MP PPU#5(TURN)"
+949,벤딩기-(313),Assembly,0.00,DAEHAN TECH CO. Ltd,,D19075 PJT. T-BENDING MP PPU#5(TURN),Assembly (조립품),D19075 PJT. 티 벤딩 MP PPU#5(회전) Assembly (조립품) D19075 PJT. T-BENDING MP PPU#5(TURN)
+950,벤딩기-(314),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#5(TURN),"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#5(회전) Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#5(TURN)"
+951,벤딩기-(315),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#5(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#5(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#5(TURN)"
+952,벤딩기-(316),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#5(TURN),"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#5(회전) Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#5(TURN)"
+953,벤딩기-(317),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#5(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#5(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#5(TURN)"
+954,벤딩기-(318),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#5(TURN),"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#5(회전) Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#5(TURN)"
+955,벤딩기-(319),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#5(TURN),Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#5(회전) Robot (로봇) D19075 PJT. T-BENDING MP PPU#5(TURN)
+956,벤딩기-(320),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#5(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#5(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#5(TURN)"
+957,벤딩기-(321),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,,"Bracket (브라켓, 지지대)"," Bracket (브라켓, 지지대) "
+958,벤딩기-(322),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,,"Plate (플레이트, 판재)"," Plate (플레이트, 판재) "
+959,벤딩기-(323),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+960,벤딩기-(324),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,,"Cover (커버, 덮개)"," Cover (커버, 덮개) "
+961,벤딩기-(325),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#6(TURN),"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Base (블록,덩어리) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+962,벤딩기-(326),Assembly,0.00,DAEHAN TECH CO. Ltd,,D19075 PJT. T-BENDING MP PPU#6(TURN),"Power (전원, 전원관련부품)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Power (전원, 전원관련부품) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+963,벤딩기-(327),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#6(TURN),"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+964,벤딩기-(328),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#6(TURN),"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+965,벤딩기-(329),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#6(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+966,벤딩기-(330),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP PPU#6(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+967,벤딩기-(331),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#6(TURN),Robot (로봇),D19075 PJT. 티 벤딩 MP PPU#6(회전) Robot (로봇) D19075 PJT. T-BENDING MP PPU#6(TURN)
+968,벤딩기-(332),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#6(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+969,벤딩기-(333),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#6(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+970,벤딩기-(334),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#6(TURN),"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Plate (플레이트, 판재) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+971,벤딩기-(335),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#6(TURN),"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+972,벤딩기-(336),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP PPU#6(TURN),"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP PPU#6(회전) Cover (커버, 덮개) D19075 PJT. T-BENDING MP PPU#6(TURN)"
+973,벤딩기-(337),Assembly,0.00,DAEHAN TECH CO. Ltd,,D19075 PJT. T-BENDING MP ROBOT #1,Robot (로봇),D19075 PJT. 티 벤딩 MP ROBO티 #1 Robot (로봇) D19075 PJT. T-BENDING MP ROBOT #1
+974,벤딩기-(338),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,D19075 PJT. T-BENDING MP ROBOT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP ROBO티 #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP ROBOT #1
+975,벤딩기-(339),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,D19075 PJT. T-BENDING MP ROBOT #1,Sensor (센서),D19075 PJT. 티 벤딩 MP ROBO티 #1 Sensor (센서) D19075 PJT. T-BENDING MP ROBOT #1
+976,벤딩기-(340),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+977,벤딩기-(341),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP ROBOT #1,Sensor (센서),D19075 PJT. 티 벤딩 MP ROBO티 #1 Sensor (센서) D19075 PJT. T-BENDING MP ROBOT #1
+978,벤딩기-(342),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+979,벤딩기-(343),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP ROBOT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP ROBOT #1"
+980,벤딩기-(344),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP ROBOT #1,Robot (로봇),D19075 PJT. 티 벤딩 MP ROBO티 #1 Robot (로봇) D19075 PJT. T-BENDING MP ROBOT #1
+981,벤딩기-(345),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+982,벤딩기-(346),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+983,벤딩기-(347),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+984,벤딩기-(348),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+985,벤딩기-(349),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #1,"Block (블록, 덩어리)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Block (블록, 덩어리) D19075 PJT. T-BENDING MP ROBOT #1"
+986,벤딩기-(350),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #1,"shaft (샤프트, 축)","D19075 PJT. 티 벤딩 MP ROBO티 #1 shaft (샤프트, 축) D19075 PJT. T-BENDING MP ROBOT #1"
+987,벤딩기-(351),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #1,"shaft (샤프트, 축)","D19075 PJT. 티 벤딩 MP ROBO티 #1 shaft (샤프트, 축) D19075 PJT. T-BENDING MP ROBOT #1"
+988,벤딩기-(352),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+989,벤딩기-(353),Component,0.00,DAEHAN TECH CO. Ltd,Carbon Steels,D19075 PJT. T-BENDING MP ROBOT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP ROBO티 #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP ROBOT #1"
+990,벤딩기-(354),Assembly,0.00,DAEHAN TECH CO. Ltd,,D19075 PJT. T-BENDING MP ROBOT #2,Robot (로봇),D19075 PJT. 티 벤딩 MP ROBO티 #2 Robot (로봇) D19075 PJT. T-BENDING MP ROBOT #2
+991,벤딩기-(355),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP ROBOT #2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP ROBO티 #2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP ROBOT #2"
+992,벤딩기-(356),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP ROBOT #2,Robot (로봇),D19075 PJT. 티 벤딩 MP ROBO티 #2 Robot (로봇) D19075 PJT. T-BENDING MP ROBOT #2
+993,벤딩기-(357),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP ROBOT #2,Sensor (센서),D19075 PJT. 티 벤딩 MP ROBO티 #2 Sensor (센서) D19075 PJT. T-BENDING MP ROBOT #2
+994,벤딩기-(358),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+995,벤딩기-(359),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #1"
+996,벤딩기-(360),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+997,벤딩기-(361),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #1"
+998,벤딩기-(362),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+999,벤딩기-(363),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1000,벤딩기-(364),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #1"
+1001,벤딩기-(365),Component,0.00,DAEHAN TECH CO. Ltd,Stainless Steels,D19075 PJT. T-BENDING MP SHT #1,Nut (너트),D19075 PJT. 티 벤딩 MP SHT #1 Nut (너트) D19075 PJT. T-BENDING MP SHT #1
+1002,벤딩기-(366),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1003,벤딩기-(367),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1004,벤딩기-(368),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1005,벤딩기-(369),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1006,벤딩기-(370),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1007,벤딩기-(371),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+1008,벤딩기-(372),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+1009,벤딩기-(373),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+1010,벤딩기-(374),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1011,벤딩기-(375),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1012,벤딩기-(376),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1013,벤딩기-(377),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1014,벤딩기-(378),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #1"
+1015,벤딩기-(379),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Robot (로봇),D19075 PJT. 티 벤딩 MP SHT #1 Robot (로봇) D19075 PJT. T-BENDING MP SHT #1
+1016,벤딩기-(380),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #1
+1017,벤딩기-(381),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #1
+1018,벤딩기-(382),Component,"308,000.00",DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #1
+1019,벤딩기-(383),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #1
+1020,벤딩기-(384),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #1
+1021,벤딩기-(385),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #1"
+1022,벤딩기-(386),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+1023,벤딩기-(387),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #1"
+1024,벤딩기-(388),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Robot (로봇),D19075 PJT. 티 벤딩 MP SHT #1 Robot (로봇) D19075 PJT. T-BENDING MP SHT #1
+1025,벤딩기-(389),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #1
+1026,벤딩기-(390),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #1
+1027,벤딩기-(391),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #1"
+1028,벤딩기-(392),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+1029,벤딩기-(393),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #1 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #1"
+1030,벤딩기-(394),Component,0.00,DAEHAN TECH CO. Ltd,etc,D19075 PJT. T-BENDING MP SHT #1,"Stopper (스토퍼, 멈추게 하는 부품)","D19075 PJT. 티 벤딩 MP SHT #1 Stopper (스토퍼, 멈추게 하는 부품) D19075 PJT. T-BENDING MP SHT #1"
+1031,벤딩기-(395),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #1"
+1032,벤딩기-(396),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #2,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #2 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #2"
+1033,벤딩기-(397),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #2,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #2 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #2"
+1034,벤딩기-(398),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #2,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #2 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #2"
+1035,벤딩기-(399),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #2,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #2 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #2"
+1036,벤딩기-(400),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #2,Robot (로봇),D19075 PJT. 티 벤딩 MP SHT #2 Robot (로봇) D19075 PJT. T-BENDING MP SHT #2
+1037,벤딩기-(401),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #2,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #2 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #2
+1038,벤딩기-(402),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #2,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #2 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #2"
+1039,벤딩기-(403),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #2,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP SHT #2 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SHT #2"
+1040,벤딩기-(404),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #3"
+1041,벤딩기-(405),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #3,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP SHT #3 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SHT #3"
+1042,벤딩기-(406),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #3,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #3 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #3"
+1043,벤딩기-(407),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #3,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #3 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #3"
+1044,벤딩기-(408),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #3,Robot (로봇),D19075 PJT. 티 벤딩 MP SHT #3 Robot (로봇) D19075 PJT. T-BENDING MP SHT #3
+1045,벤딩기-(409),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #3,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP SHT #3 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP SHT #3
+1046,벤딩기-(410),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #4,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #4 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #4"
+1047,벤딩기-(411),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SHT #4,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #4 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #4"
+1048,벤딩기-(412),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SHT #4,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP SHT #4 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SHT #4"
+1049,벤딩기-(413),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1050,벤딩기-(414),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Base (블록,덩어리) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1051,벤딩기-(415),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1052,벤딩기-(416),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1053,벤딩기-(417),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1054,벤딩기-(418),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1055,벤딩기-(419),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1056,벤딩기-(420),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Bracket (브라켓, 지지대)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Bracket (브라켓, 지지대) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1057,벤딩기-(421),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1058,벤딩기-(422),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP SAMPLING PORT,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Cover (커버, 덮개) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1059,벤딩기-(423),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SAMPLING PORT,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1060,벤딩기-(424),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SAMPLING PORT,"Guide (가이드, 안내부품)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Guide (가이드, 안내부품) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1061,벤딩기-(425),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SAMPLING PORT,"Guide (가이드, 안내부품)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Guide (가이드, 안내부품) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1062,벤딩기-(426),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SAMPLING PORT,"Block (블록, 덩어리)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Block (블록, 덩어리) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1063,벤딩기-(427),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP SAMPLING PORT,"Base (블록,덩어리)","D19075 PJT. 티 벤딩 MP 샘플링 포트 Base (블록,덩어리) D19075 PJT. T-BENDING MP SAMPLING PORT"
+1064,벤딩기-(428),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP STG#1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP STG#1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP STG#1"
+1065,벤딩기-(429),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP STG#1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP STG#1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP STG#1"
+1066,벤딩기-(430),Component,0.00,DAEHAN TECH CO. Ltd,Structural Steels,D19075 PJT. T-BENDING MP STG#1,"Cover (커버, 덮개)","D19075 PJT. 티 벤딩 MP STG#1 Cover (커버, 덮개) D19075 PJT. T-BENDING MP STG#1"
+1067,벤딩기-(431),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP STG#1,"Plate (플레이트, 판재)","D19075 PJT. 티 벤딩 MP STG#1 Plate (플레이트, 판재) D19075 PJT. T-BENDING MP STG#1"
+1068,벤딩기-(432),Component,0.00,DAEHAN TECH CO. Ltd,Aluminum Alloys,D19075 PJT. T-BENDING MP STG#1,Support ( 지지대 / 서포트),D19075 PJT. 티 벤딩 MP STG#1 Support ( 지지대 / 서포트) D19075 PJT. T-BENDING MP STG#1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
+,,,,,,,,  
